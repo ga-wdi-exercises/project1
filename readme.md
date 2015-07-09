@@ -1,10 +1,15 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1: The Game
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1
 
 ### Overview
 
-Let's start out with something fun - **a game!**
+For this project, you have a choice of a few different games / apps:
 
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe, it's up to you to come up with a fun and interesting game to build.
+* **Blackjack**
+* **Concentration (aka Memory)**
+* **Trivia (Self-scoring)**
+* **Flash Cards**
+
+Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe, it's up to you to come up with a fun and interesting project to build.
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
@@ -15,23 +20,22 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 Your app must:
 
-* **Render a game in the browser**
-* **Switch turns** between two players
-* **Design logic for winning** & **visually display which player won**
+* **Render in the browser**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
-* **Deploy your game online**, where the rest of the world can access it
+* **Deploy online**, using Github pages.
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 
 ---
 
 ### Necessary Deliverables
 
-* A **working game, built by you**, hosted somewhere on the internet
-* A **link to your hosted working game** in the URL section of your Github repo
-* A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
-* **A ``readme.md`` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+* A **hosted copy of your game or app, built by you**, hosted on Github pages.
+  * Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu) and [CSS Validators](https://jigsaw.w3.org/css-validator/)
+* A **git repository hosted on Github** with frequent commits dating back to the very beginning of the project
+  * A **link to your hosted project** in the URL section of your Github repo
+  * **A ``readme.md`` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
 
 ---
 
@@ -46,16 +50,41 @@ Your app must:
 
 ---
 
-### Potential Project Ideas
+### Project Choices
 
-##### Blackjack
-Make a one player game where people down on their luck can lose all their money by guessing which card the computer will deal next!
+#### Blackjack
+Make a one-player game where the computer deals and the user plays according to the rules of blackjack.
 
-##### Concentration
+*Bonus:*
+ * Add multi-player support
+ * Add Computer AI
+
+#### Concentration
 Sometimes just called "Memory", it's a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. If you get all the matching cards, you've won!
 
-##### Self-scoring Trivia
-Test your wits & knowledge with whatever-the-heck you know about (so you can actually win). Guess answers, have the computer tell you how right you are!
+*Bonus:*
+  * Let the user choose from different 'decks'
+  * Add timers / scoring based on timers
+  * Think of some fun way to modify the rules of
+
+#### Self-scoring Trivia
+Pre-load your app with some questions and answers.
+
+Test the user's wits & knowledge with whatever-the-heck you know about (so you can actually win). Guess answers, have the computer tell you how
+right you are!
+
+*Bonus:*
+  * Add time-based scoring
+  * Track scores across games (even if the page is reloaded)
+  * Allow users to compete against each other on a high-score board.
+
+#### Flash-Cards
+Pre-load your app with some data, and let the user flip through them quickly (back or front), and use the keyboard flip the card, and to mark whether they got it right or not. Track which cards were incorrect, and re-display them until the user gets them right!
+
+*Bonus:*
+  * Track scores over time (even if the page is reloaded)
+  * Include images on one or both sides of the flash card
+  * Let the user add flash cards (don't need to be saved across refreshes)
 
 ---
 
@@ -81,10 +110,10 @@ Test your wits & knowledge with whatever-the-heck you know about (so you can act
 
 * __Total__: Your instructors will give you a total score on your project between:
 
-    Score | Expectations
-    ----- | ------------
-    **0** | _Does not meet expectations._
-    **1** | _Meets expectactions, good job!_
-    **2** | _Exceeds expectations, you wonderful creature, you!_
+Score | Expectations
+----- | ------------
+**0** | _Does not meet expectations._
+**1** | _Meets expectactions, good job!_
+**2** | _Exceeds expectations_
 
- This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!

@@ -24,7 +24,7 @@ Your app must:
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
-* **Deploy online**, using Github pages.
+* **Deploy online**, using [Github **Project** pages](https://pages.github.com).
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 
 ---

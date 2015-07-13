@@ -15,6 +15,8 @@ a given time, and other students will walk around asking questions like:
 - How did you plan your project?
 - What did you learn?
 
+## Schedule
+
 | Group                       | Time        |
 |-----------------------------|-------------|
 | BlackJack                   | 1:30 - 2:15 |

@@ -22,6 +22,9 @@ not limited to:
 - Resources you have used
 
 ### Question
+
 What would you like help with specifically?
 
-For an example: [how to ask questions](https://gist.github.com/h4w5/9697140)
+Try explaining what you did, what you were expecting, and what happened.
+
+For an example: [sample issue](https://github.com/ga-dc/pbj-project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)

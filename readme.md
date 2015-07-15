@@ -39,6 +39,39 @@ Your app must:
 
 ---
 
+### Deploying via GitHub Pages.
+
+**DO NOT** follow the instructions provided by GitHub for creating your Project Pages.  
+
+tldr;
+
+1. Create a branch from "master" named "gh-pages".
+2. Push "gh-pages" to "origin".
+3. Browse to `<your_github_name>.github.io/<repo_name>`.
+
+Why? They expect GitHub Project pages to provide an, easy way to create a separate information site for our application.  They expect us to host our application somewhere else (with robust servers, db, custom domain, etc.).  We just want our project to be available here.
+
+Steps:
+1. Create a tracking branch, from master:
+```
+git checkout master
+git checkout -b gh-pages
+```
+2. Initial deploy to origin (via push):
+```
+git push --set-upstream  # defaults to "origin gh-pages"
+```
+3. Verify, by browsing to `<your_github_name>.github.io/<repo_name>`.  Don't forget to add this to your repo url and readme.
+
+After making further changes, deploy via push:
+```
+git push  # since you setup tracking, it deploys to this branch on origin
+```
+
+Nice and simple.
+
+---
+
 ### Suggested Ways to Get Started
 
 * **Break the project down into different components** (data, presentation, views, style, DOM manipulation) and brainstorm each component individually. Use whiteboards!

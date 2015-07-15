@@ -53,17 +53,19 @@ Why? They expect GitHub Project pages to provide an, easy way to create a separa
 
 Steps:
 
-1. Create a tracking branch, from master:
-  ```
-  git checkout master
-  git checkout -b gh-pages
-  ```
-2. Initial deploy to origin (via push):
-  ```
-  git push --set-upstream  # defaults to "origin gh-pages"
-  ```
-3. Verify, by browsing to `<your_github_name>.github.io/<repo_name>`.  Don't forget to add this to your repo url and readme.
+#### 1. Create a tracking branch, from master:
+```
+git checkout master
+git checkout -b gh-pages
+```
+#### 2. Initial deploy to origin (via push):
+```
+git push --set-upstream  # defaults to "origin gh-pages"
+```
+#### 3. Verify
+Browse to `<your_github_name>.github.io/<repo_name>`.  Don't forget to add this to your repo url and readme.
 
+#### Follow-up deployments:
 After making further changes, deploy via push:
 ```
 git push  # since you setup tracking, it deploys to this branch on origin

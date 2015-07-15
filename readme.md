@@ -52,6 +52,7 @@ tldr;
 Why? They expect GitHub Project pages to provide an, easy way to create a separate information site for our application.  They expect us to host our application somewhere else (with robust servers, db, custom domain, etc.).  We just want our project to be available here.
 
 Steps:
+
 1. Create a tracking branch, from master:
 ```
 git checkout master

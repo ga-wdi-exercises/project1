@@ -54,14 +54,14 @@ Why? They expect GitHub Project pages to provide an, easy way to create a separa
 Steps:
 
 1. Create a tracking branch, from master:
-```
-git checkout master
-git checkout -b gh-pages
-```
+  ```
+  git checkout master
+  git checkout -b gh-pages
+  ```
 2. Initial deploy to origin (via push):
-```
-git push --set-upstream  # defaults to "origin gh-pages"
-```
+  ```
+  git push --set-upstream  # defaults to "origin gh-pages"
+  ```
 3. Verify, by browsing to `<your_github_name>.github.io/<repo_name>`.  Don't forget to add this to your repo url and readme.
 
 After making further changes, deploy via push:

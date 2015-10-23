@@ -166,8 +166,10 @@ All presentations will be science fair style! At some point each student will ha
 
 #### Schedule for Presentations
 You'll be assigned a group number on the day of the presentation.
+
+
 time|group
----|---
-2:00-2:45 | 1
+----- |-----
+2:00 - 2:45 | 1
 2:50 - 3:35| 2
 3:45 - 4:30| 3

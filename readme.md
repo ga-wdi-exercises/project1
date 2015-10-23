@@ -11,7 +11,7 @@ For this project, you'll be creating a familiar game with HTML and JS! Please ch
 * **Trivia (Self-scoring)**
 * **Flash Cards**
 
-This is an opportunity to **be creative**, and work through some **tough programming challenges**. 
+This is an opportunity to **be creative**, and work through some **tough programming challenges**.
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
@@ -44,7 +44,7 @@ Your app must:
 
 ### Deploying via GitHub Pages.
 
-**DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? The instructions expect us to host our application on a custom web domain (yourname.com).
+**DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? They expect `gh_pages` to be a separate informational site about the project contained in the repo. So, what we want, is to use the `gh_pages` functionality to actually host our application.
 
 Instead, try these steps:
 
@@ -63,7 +63,7 @@ Browse to `<your_github_username>.github.io/<repo_name>`
 #### Follow-up deployments:
 After making further changes, deploy via push:
 ```
-git push origin gh-pages 
+git push origin gh-pages
 ```
 
 ---
@@ -150,17 +150,13 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 Day | Time | Event | who
 ----- | ------------ | ----- | -----
 Monday/Tuesday | TBA | One-on-ones | individual
-Tuesday | 1:30 - 3:00 | Outcomes | Classrooms 5 & 1
-Tuesday | 3:30 - 5:00 | Outcomes | Classroom 4
-Wednesday | 1:30 - 4:30 | Project 1 Presentations | everyone
+Tuesday | 1:30 - 3:30 | Outcomes | Classrooms 5 & 1
+Tuesday | 3:30 - 5:30 | Outcomes | Classroom 4
+Wednesday | 2:00 - 4:30 | Project 1 Presentations | everyone
 
 ### Presentations
 
-<<<<<<< HEAD
 All presentations will be science fair style. There will be 3 separate groups. During your group's 45-minute block, you'll set up at a table and demo / discuss your project with the non-presenting students as they walk around.
-=======
-These presentations will be "science fair-style": one portion of the class will display their computers on tables and crates, while the rest of the class walks around, observes, and asks questions. Then, the presenters and presentees will switch.
->>>>>>> b451891ab477ce8cb9f44de2d9bc1541e084e731
 
 #### Schedule for Presentations
 You'll be assigned a group number on the day of the presentation.

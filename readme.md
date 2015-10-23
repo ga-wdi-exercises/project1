@@ -138,7 +138,7 @@ Pre-load your app with some data, and let the user flip through them quickly (ba
 
 * __Code Quality__: Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code as your instructors have in class?
 
-* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrate that you thought through alternative implementations? 
+* __Problem Solving__: Are you able to defend why you implemented your solution in a certain way? Can you demonstrate that you thought through alternative implementations?
 
 * __Total__: Your instructors will give you a total score on your project between:
 
@@ -149,3 +149,25 @@ Score | Expectations
 **2** | _Exceeds expectations_
 
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+
+### Schedule
+- Anything not specified here will be considered project work time. Take some time to each lunch and take breaks. Attendance will be taken at 9 in the classrooms each morning.
+
+Day | Time | Event | who
+----- | ------------ | ----- | -----
+Monday/Tuesday | Get with squad leader for time | one on ones | individual
+Tuesday | 1:30 - 3:00 | Outcomes | Classrooms 5 & 1
+Tuesday | 3:30 - 5:00 | Outcomes | Classroom 4
+Wednesday | 1:30 - 4:30 | Project 1 Presentations | everyone
+
+### Presentations
+
+All presentations will be science fair style! At some point each student will have a table and their laptop and they will show their project to other students in the class.
+
+#### Schedule for Presentations
+You'll be assigned a group number on the day of the presentation.
+time|group
+---|---
+2:00-2:45 | 1
+2:50 - 3:35| 2
+3:45 - 4:30| 3

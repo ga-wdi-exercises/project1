@@ -1,17 +1,19 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1
 
+## Make a game!
+
 ### Overview
 
-For this project, you have a choice of a few different games / apps:
+For this project, you'll be creating a familiar game with HTML and JS! Please choose one of the following:
+
 * **War**
 * **Concentration (aka Memory)**
 * **Trivia (Self-scoring)**
 * **Flash Cards**
 
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe, it's up to you to come up with a fun and interesting project to build.
+This is an opportunity to **be creative**, and work through some **tough programming challenges**. 
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
-
 
 ---
 
@@ -30,47 +32,39 @@ Your app must:
 
 ### Necessary Deliverables
 
-* A **hosted copy of your game or app, built by you**, hosted on Github pages.
-  * Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu) and [CSS Validators](https://jigsaw.w3.org/css-validator/)
+* A **hosted copy of your game or app, built by you**, hosted on Github Pages
+  * Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu) and [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * A **git repository hosted on Github** with frequent commits dating back to the very beginning of the project
   * A **link to your hosted project** in the URL section of your Github repo
-  * **A ``readme.md`` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+  * **A ``readme.md`` file**, including
+    * Explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+    * At least 5 [user stories]((https://github.com/ga-dc/curriculum/tree/master/02-intermediate-front-end/process-stories-wireframes).
 
 ---
 
 ### Deploying via GitHub Pages.
 
-**DO NOT** follow the instructions provided by GitHub for creating your Project Pages.  
+**DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? The instructions expect us to host our application on a custom web domain (yourname.com).
 
-tldr;
+Instead, try these steps:
 
-1. Create a branch from "master" named "gh-pages".
-2. Push "gh-pages" to "origin".
-3. Browse to `<your_github_name>.github.io/<repo_name>`.
-
-Why? They expect GitHub Project pages to provide an, easy way to create a separate information site for our application.  They expect us to host our application somewhere else (with robust servers, db, custom domain, etc.).  We just want our project to be available here.
-
-Steps:
-
-#### 1. Create a tracking branch, from master:
+#### 1. Create a gh-pages branch, from master:
 ```
 git checkout master
 git checkout -b gh-pages
 ```
 #### 2. Initial deploy to origin (via push):
 ```
-git push --set-upstream  # defaults to "origin gh-pages"
+git push -u origin gh-pages
 ```
 #### 3. Verify
-Browse to `<your_github_name>.github.io/<repo_name>`.  Don't forget to add this to your repo url and readme.
+Browse to `<your_github_username>.github.io/<repo_name>`
 
 #### Follow-up deployments:
 After making further changes, deploy via push:
 ```
-git push  # since you setup tracking, it deploys to this branch on origin
+git push origin gh-pages 
 ```
-
-Nice and simple.
 
 ---
 
@@ -155,18 +149,21 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 
 Day | Time | Event | who
 ----- | ------------ | ----- | -----
-Monday/Tuesday | Get with squad leader for time | one on ones | individual
+Monday/Tuesday | TBA | One-on-ones | individual
 Tuesday | 1:30 - 3:00 | Outcomes | Classrooms 5 & 1
 Tuesday | 3:30 - 5:00 | Outcomes | Classroom 4
 Wednesday | 1:30 - 4:30 | Project 1 Presentations | everyone
 
 ### Presentations
 
+<<<<<<< HEAD
 All presentations will be science fair style. There will be 3 separate groups. During your group's 45-minute block, you'll set up at a table and demo / discuss your project with the non-presenting students as they walk around.
+=======
+These presentations will be "science fair-style": one portion of the class will display their computers on tables and crates, while the rest of the class walks around, observes, and asks questions. Then, the presenters and presentees will switch.
+>>>>>>> b451891ab477ce8cb9f44de2d9bc1541e084e731
 
 #### Schedule for Presentations
 You'll be assigned a group number on the day of the presentation.
-
 
 time|group
 ----- |-----

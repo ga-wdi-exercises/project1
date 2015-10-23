@@ -3,8 +3,7 @@
 ### Overview
 
 For this project, you have a choice of a few different games / apps:
-
-* **Blackjack**
+* **War**
 * **Concentration (aka Memory)**
 * **Trivia (Self-scoring)**
 * **Flash Cards**
@@ -87,13 +86,12 @@ Nice and simple.
 ---
 
 ### Project Choices
-
-#### Blackjack
-Make a one-player game where the computer deals and the user plays according to the rules of blackjack.
+#### War
+<a href="https://en.wikipedia.org/wiki/War_(card_game)">War</a> is a card game typically involving two players. Due to its simplicity, it is played most often by children. (Probably not so simple to program)
 
 *Bonus:*
- * Add multi-player support
- * Add Computer AI
+  * tieing - Account for how ties work in the war game
+  * multiplayer functionality(3+)
 
 #### Concentration
 Sometimes just called "Memory", it's a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. If you get all the matching cards, you've won!

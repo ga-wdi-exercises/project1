@@ -15,6 +15,10 @@ This is an opportunity to **be creative**, and work through some **tough program
 
 **You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
 
+### Asking For Help
+
+[Please read!](https://github.com/ga-dc/wdi7/blob/master/asking-for-help.md)
+
 ---
 
 ### Technical Requirements
@@ -166,7 +170,3 @@ time|group
 2:00 - 2:45 | 1
 2:50 - 3:35| 2
 3:45 - 4:30| 3
-
-## Asking For Help
-
-[Please read!](https://github.com/ga-dc/wdi7/blob/master/asking-for-help.md)

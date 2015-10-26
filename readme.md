@@ -44,7 +44,7 @@ Your app must:
 
 ### Deploying via GitHub Pages.
 
-**DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? They expect `gh_pages` to be a separate informational site about the project contained in the repo. So, what we want, is to use the `gh_pages` functionality to actually host our application.
+**DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? They expect `gh_pages` to be a separate informational site about the project contained in the repo. What we want is to use the `gh_pages` functionality to actually host our application.
 
 Instead, try these steps:
 
@@ -166,3 +166,7 @@ time|group
 2:00 - 2:45 | 1
 2:50 - 3:35| 2
 3:45 - 4:30| 3
+
+## Asking For Help
+
+[Please read!](https://github.com/ga-dc/wdi7/blob/master/asking-for-help.md)

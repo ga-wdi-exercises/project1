@@ -25,73 +25,77 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 | 3:40 - 4:20 | 3      |
 
 ### Group 1 (2:00 - 2:40)
-Mariia Kotylevska<br />
-Jared Nichols<br />
-Armani Hall<br />
-Sigmund Tang<br />
-Qadriyyah Thomas<br />
-Shawn Campbell<br />
-Andrew Johnson<br />
-Chris Kibble<br />
-Tim Gregg<br />
-Samir Mehta<br />
-Tyler Crosse<br />
-Brendan Mahoney<br />
-Ly Nguyen<br />
-Jordan Brauner<br />
-Byron Morales<br />
-Alexandra Screven<br />
-Dennis Truong<br />
-Davis Green<br />
-Sarah Hersh<br />
-Brendan Lewis<br />
-Joseph Glatman Zaretsky<br />
+```text
+Mariia Kotylevska
+Jared Nichols
+Armani Hall
+Sigmund Tang
+Qadriyyah Thomas
+Shawn Campbell
+Andrew Johnson
+Chris Kibble
+Tim Gregg
+Samir Mehta
+Tyler Crosse
+Brendan Mahoney
+Ly Nguyen
+Jordan Brauner
+Byron Morales
+Alexandra Screven
+Dennis Truong
+Davis Green
+Sarah Hersh
+Brendan Lewis
+Joseph Glatman Zaretsky
 Elise Kain
-
+```
 ### Group 2 (2:50 - 3:30)
-Rebecca Estes<br />
-John Park<br />
-Matt Popovich<br />
-Eric Stennett<br />
-Tory Burgett<br />
-Markham Shofner<br />
-Maurice Gibbs<br />
-Teddy Kentor<br />
-Dumitru Gorgan<br />
-Thomas Clark<br />
-Benjamin Logan<br />
-Kory Campbell<br />
-Chauncey Manson IV<br />
-Negar Kalbasi<br />
-Mia Grodsky<br />
-Chrystal Banks<br />
-Cassidy Harpster<br />
-Bryce Lively<br />
-Chase Gruber<br />
-Rachel Porter<br />
-Thomas Solow<br />
-Alea Qawiyy<br />
-
+```text
+Rebecca Estes
+John Park
+Matt Popovich
+Eric Stennett
+Tory Burgett
+Markham Shofner
+Maurice Gibbs
+Teddy Kentor
+Dumitru Gorgan
+Thomas Clark
+Benjamin Logan
+Kory Campbell
+Chauncey Manson IV
+Negar Kalbasi
+Mia Grodsky
+Chrystal Banks
+Cassidy Harpster
+Bryce Lively
+Chase Gruber
+Rachel Porter
+Thomas Solow
+Alea Qawiyy
+```
 ### Group 3 (3:40 - 4:20)
-Jorge Pimentel<br />
-Matiullah Amin<br />
-Roshana Devkota<br />
-Josh Cohen<br />
-Kelly Austin<br />
-James Moon<br />
-Becky Beauchamp<br />
-Daniel Alexander<br />
-Jennie Pengelly<br />
-Thom Householder<br />
-Alice Frumin<br />
-Matthew Murgia<br />
-Liz Jacques<br />
-Mohamed Goodwin<br />
-Wonsik Jeong<br />
-Starr Chen<br />
-Britton Walker<br />
-Alexis Johnson<br />
-Andre Shonubi<br />
-Peter Zhang<br />
-Aurelio Avelleyra<br />
-Fatai Agiri<br />
+```text
+Jorge Pimentel
+Matiullah Amin
+Roshana Devkota
+Josh Cohen
+Kelly Austin
+James Moon
+Becky Beauchamp
+Daniel Alexander
+Jennie Pengelly
+Thom Householder
+Alice Frumin
+Matthew Murgia
+Liz Jacques
+Mohamed Goodwin
+Wonsik Jeong
+Starr Chen
+Britton Walker
+Alexis Johnson
+Andre Shonubi
+Peter Zhang
+Aurelio Avelleyra
+Fatai Agiri
+```

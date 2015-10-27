@@ -26,6 +26,7 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 
 ### Group 1 (2:00 - 2:40)
 ```text
+CLASSROOM 1:
 Mariia Kotylevska
 Jared Nichols
 Armani Hall
@@ -33,6 +34,8 @@ Sigmund Tang
 Qadriyyah Thomas
 Shawn Campbell
 Andrew Johnson
+
+CLASSROOM 4:
 Chris Kibble
 Tim Gregg
 Samir Mehta
@@ -40,7 +43,8 @@ Tyler Crosse
 Brendan Mahoney
 Ly Nguyen
 Jordan Brauner
-Byron Morales
+
+CLASSROOM 5:
 Alexandra Screven
 Dennis Truong
 Davis Green
@@ -51,6 +55,7 @@ Elise Kain
 ```
 ### Group 2 (2:50 - 3:30)
 ```text
+CLASSROOM 1:
 Rebecca Estes
 John Park
 Matt Popovich
@@ -58,6 +63,8 @@ Eric Stennett
 Tory Burgett
 Markham Shofner
 Maurice Gibbs
+
+CLASSROOM 4:
 Teddy Kentor
 Dumitru Gorgan
 Thomas Clark
@@ -65,6 +72,8 @@ Benjamin Logan
 Kory Campbell
 Chauncey Manson IV
 Negar Kalbasi
+
+CLASSROOM 5:
 Mia Grodsky
 Chrystal Banks
 Cassidy Harpster
@@ -76,6 +85,7 @@ Alea Qawiyy
 ```
 ### Group 3 (3:40 - 4:20)
 ```text
+CLASSROOM 1:
 Jorge Pimentel
 Matiullah Amin
 Roshana Devkota
@@ -83,14 +93,17 @@ Josh Cohen
 Kelly Austin
 James Moon
 Becky Beauchamp
+
+CLASSROOM 4:
 Daniel Alexander
 Jennie Pengelly
 Thom Householder
 Alice Frumin
 Matthew Murgia
-Liz Jacques
 Mohamed Goodwin
 Wonsik Jeong
+
+CLASSROOM 5:
 Starr Chen
 Britton Walker
 Alexis Johnson

@@ -165,11 +165,11 @@ All presentations will be science fair style. There will be 3 separate groups. D
 #### Schedule for Presentations
 You'll be assigned a group number on the day of the presentation.
 
-time|group
------ |-----
-2:00 - 2:45 | 1
-2:50 - 3:35| 2
-3:45 - 4:30| 3
+| Time        | Group  |
+|:-----------:|:------:|
+| 2:00 - 2:40 | 1      |
+| 2:50 - 3:30 | 2      |
+| 3:40 - 4:20 | 3      |
 
 #### Retro
 

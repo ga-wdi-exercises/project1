@@ -1,0 +1,42 @@
+  div#memory_board{
+	background:lavender;
+	border:teal 1px solid;
+	width:800px;
+	height:540px;
+	padding:24px;
+	margin:0px auto;
+
+  }
+
+  div#memory_board > div{
+	background: beige;
+	border:#444 1px solid;
+	width:71px;
+	height:71px;
+	float:left;
+	margin:10px;
+	padding:20px;
+	font-size:64px;
+  font-family: fantasy;
+	cursor:pointer;
+	text-align:center;
+
+  }
+
+  html{
+    background-image: url("");
+  }
+
+  title{
+    font-family: fantasy;
+    font-weight: bold;
+  }
+
+
+  h1{
+  text-align:center;
+  font-family:fantasy;
+  text-decoration: underline;
+  font-size: 48px
+
+}

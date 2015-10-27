@@ -18,8 +18,8 @@ a given time, and other students will walk around asking questions like:
 ## Schedule for Presentations
 Groups were assigned randomly, to ensure that everyone has the opportunity to see presentations of a range of different game types, by members of every squad.
 
-| Time        |  Group |
-|---          |---     |
+| Time        | Group  |
+|:-----------:|:------:|
 | 2:00 - 2:40 | 1      |
 | 2:50 - 3:30 | 2      |
 | 3:40 - 4:20 | 3      |

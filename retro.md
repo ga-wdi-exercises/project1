@@ -4,7 +4,7 @@
 
 - feedback on your project will be given by Monday COB
 - [Submit your project here](https://gawdidc.typeform.com/to/cy6ZuQ)
-- [Homework](https://github.com/ga-dc/try-ruby)
+- Homework for Tomorrow: Please complete at least the first 3 levels of Try Ruby - http://tryruby.org/
 
 ## Feedback
 

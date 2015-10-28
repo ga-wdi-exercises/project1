@@ -176,4 +176,4 @@ You'll be assigned a group number on the day of the presentation.
 
 #### Retro
 
-4:45 - 5:15 - [Squad Retro](retro.md)
+4:30 - 5:15 - [Squad Retro](retro.md)

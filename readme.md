@@ -44,6 +44,9 @@ Your app must:
     * Explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
     * At least 5 [user stories](https://github.com/ga-dc/curriculum/tree/master/02-intermediate-front-end/process-stories-wireframes).
 
+The URL section of your Github repo:
+![URL section](http://i.imgur.com/QQ7RsfR.gif)
+
 ---
 
 ### Deploying via GitHub Pages.

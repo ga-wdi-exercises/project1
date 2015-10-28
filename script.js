@@ -1,4 +1,4 @@
-var memory_array = ['A','A','B','B','C','C','D','D','E','E','F','F','G','G','H','H','I','I','J','J','K','K','L','L'];
+var memory_array = ['$','$','B','B','!','!','D','D','+','+','F','F','=','=','H','H','%','%','J','J','^','^',';',';'];
 var memory_values = [];
 var memory_tile_ids = [];
 var tiles_flipped = 0;
@@ -37,7 +37,7 @@ function memoryFlipTile(tile,val){
             	memory_tile_ids = [];
 				// Check to see if the whole board is cleared
 				if(tiles_flipped == memory_array.length){
-					alert("Board cleared... generating new board");
+					alert("Good Job... Click to Refesh the board");
 					document.getElementById('memory_board').innerHTML = "";
 					newBoard();
 				}

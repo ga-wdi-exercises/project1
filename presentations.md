@@ -30,7 +30,7 @@ CLASSROOM 4:
 
 - Jesse
 
-CLASSROOM 6:
+CLASSROOM 5:
 
 - Joe
 - Adrian
@@ -42,7 +42,7 @@ CLASSROOM 4:
 
 - Becky
 
-CLASSROOM 6:
+CLASSROOM 5:
 
 - Nick
 
@@ -54,7 +54,7 @@ CLASSROOM 4:
 - Robin
 
 
-CLASSROOM 6:
+CLASSROOM 5:
 
 - Matt
 

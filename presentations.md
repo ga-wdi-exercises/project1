@@ -1,6 +1,6 @@
 # Presentations
 
-Presentations will start on Wednesday at 2:00pm. We expect everyone to attend every session
+Presentations will start on Thursday at 2:00pm. We expect everyone to attend every session
 and will provide 15 minute breaks between each session.
 
 This means **no working on your code** while others are presenting. This is your chance
@@ -27,88 +27,35 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 ### Group 1 (2:00 - 2:40)
 ```text
 CLASSROOM 4:
-Mariia Kotylevska
-Jared Nichols
-Armani Hall
-Sigmund Tang
-Qadriyyah Thomas
-Shawn Campbell
-Andrew Johnson
 
-CLASSROOM 5:
-Chris Kibble
-Tim Gregg
-Samir Mehta
-Tyler Crosse
-Brendan Mahoney
-Ly Nguyen
-Jordan Brauner
+- Jesse
 
 CLASSROOM 6:
-Alexandra Screven
-Dennis Truong
-Davis Green
-Sarah Hersh
-Brendan Lewis
-Joseph Glatman Zaretsky
-Elise Kain
+
+- Joe
+- Adrian
+
 ```
 ### Group 2 (2:50 - 3:30)
 ```text
 CLASSROOM 4:
-Rebecca Estes
-John Park
-Matt Popovich
-Eric Stennett
-Tory Burgett
-Markham Shofner
-Maurice Gibbs
 
-CLASSROOM 5:
-Teddy Kentor
-Dumitru Gorgan
-Thomas Clark
-Benjamin Logan
-Kory Campbell
-Chauncey Manson IV
-Negar Kalbasi
+- Becky
 
 CLASSROOM 6:
-Mia Grodsky
-Chrystal Banks
-Cassidy Harpster
-Bryce Lively
-Chase Gruber
-Rachel Porter
-Thomas Solow
-Alea Qawiyy
+
+- Nick
+
 ```
 ### Group 3 (3:40 - 4:20)
 ```text
 CLASSROOM 4:
-Jorge Pimentel
-Matiullah Amin
-Roshana Devkota
-Josh Cohen
-Kelly Austin
-James Moon
-Becky Beauchamp
 
-CLASSROOM 5:
-Daniel Alexander
-Jennie Pengelly
-Thom Householder
-Alice Frumin
-Matthew Murgia
-Mohamed Goodwin
-Wonsik Jeong
+- Robin
+
 
 CLASSROOM 6:
-Starr Chen
-Britton Walker
-Alexis Johnson
-Andre Shonubi
-Peter Zhang
-Aurelio Avelleyra
-Fatai Agiri
+
+- Matt
+
 ```

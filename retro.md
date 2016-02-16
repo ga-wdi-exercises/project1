@@ -3,8 +3,7 @@
 ## Announcements
 
 - Feedback on your project will be given by Monday COB
-- [Submit your project here](https://gawdidc.typeform.com/to/cy6ZuQ)
-- Homework for tomorrow: Please complete at least the first 3 levels of Try Ruby - http://tryruby.org/
+- [Submit your project here](https://github.com/ga-dc/wdi8-project1-gallery) by creating an issue
 
 ## Feedback
 

@@ -156,10 +156,8 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 
 Day | Time | Event | who
 ----- | ------------ | ----- | -----
-Monday/Tuesday | TBA | One-on-ones | individual
-Tuesday | 1:30 - 3:00 | Outcomes | Classrooms 5 & 1
-Tuesday | 3:30 - 5:00 | Outcomes | Classroom 4
-Wednesday | 2:00 - 4:30 | Project 1 Presentations | everyone
+Tuesday | 10:00 - 12:30 | Outcomes | everyone
+Thursday | 2:30 - 5:00 | Project 1 Presentations | everyone
 
 ### Presentations
 

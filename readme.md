@@ -17,7 +17,11 @@ This is an opportunity to **be creative**, and work through some **tough program
 
 ### Asking For Help
 
-[Please read!](https://github.com/ga-dc/wdi8/blob/master/asking-for-help.md)
+[via GitHub issues](https://github.com/ga-dc/wdi8/blob/master/asking-for-help.md#during-project-weeks)
+_or_
+at the Genius Bar
+
+Please [refer to the calendar](http://ga-dc.github.io/wdi8/calendar.html) to see which instructors will be available for support.
 
 ---
 

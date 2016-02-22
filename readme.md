@@ -42,7 +42,7 @@ Your app must:
   * A **link to your hosted project** in the URL section of your Github repo
   * **A ``readme.md`` file**, including
     * Explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
-    * At least 5 [user stories](https://github.com/ga-wdi-lessons/agile).
+    * At least 5 [user stories](https://github.com/ga-wdi-lessons/agile/blob/249a9641e21dadbb0628ab151ac8107042fb6d60/readme.md#user-stories-how-do-we-figure-out-our-mvp).
 
 The URL section of your Github repo:
 ![URL section](http://i.imgur.com/QQ7RsfR.gif)

@@ -159,6 +159,7 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 Day | Time | Event | who
 ----- | ------------ | ----- | -----
 Tuesday | 10:00 - 12:30 | Outcomes | everyone
+Thursday | 12:00 | Code freeze/Projects due | everyone
 Thursday | 2:30 - 5:00 | Project 1 Presentations | everyone
 
 ### Presentations

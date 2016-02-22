@@ -1,0 +1,11 @@
+Initial Goal:
+  Create a memory game that asks the user to match my cohorts photos with their names.
+
+  Bronze Level Goal: using a 9 by 9 table or div selection, generate a selection of photos of my cohort-mates and use a sidebar with their names. Have the "player" flip over a card and then see a picture of a person.
+  Press a button and match the name. If the name matches, player wins that round. If not, they lose.
+
+  Silver Level Goal: Add more people, have them animated perhaps, add fun facts that also match up with the photos.
+
+  Gold Level Goal: fully automated, add random generate button, visually appealing. *** come back to this.
+
+  

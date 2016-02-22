@@ -1,0 +1,12 @@
+.nameOfGame {
+          font-family:'Amatic SC', cursive;
+          font-size: 34px;
+}
+
+img {
+    width:200px;
+    height:200px;
+}
+table, td {
+    border: 5px black solid;
+}

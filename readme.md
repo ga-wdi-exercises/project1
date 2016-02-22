@@ -77,6 +77,8 @@ git push origin gh-pages
 
 ### Suggested Ways to Get Started
 
+[Create your bronze, silver, and gold plan.](https://github.com/ga-wdi-lessons/bronze-silver-gold)
+
 * **Break the project down into different components** (data, presentation, views, style, DOM manipulation) and brainstorm each component individually. Use whiteboards!
 * **Use your Development Tools** (console.log, inspector, alert statements, etc) to debug and solve problems
 * Work through the lessons in class & ask questions when you need to! Think about adding relevant code to your game each night, instead of, you know... _procrastinating_.

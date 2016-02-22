@@ -2,7 +2,7 @@
 
 ## Announcements
 
-- Feedback on your project will be given by Monday COB
+- Feedback on your project will be given by Thursday(3/3) COB
 - [Submit your project here](https://github.com/ga-dc/wdi8-project1-gallery) by creating an issue
 
 ## Feedback

@@ -1,0 +1,17 @@
+<link href='https://fonts.googleapis.com/css?family=Abril+Fatface|Playfair+Display:400,900,700' rel='stylesheet' type='text/css'>
+head {
+}
+Body {
+	text-align: center;
+	background: url("file:///Users/FHaider/wdi/home/project1/ThinkstockPhotos-508632991-1.jpg");
+  font-family: 'Playfair Display', serif;
+	color: #ffffff;
+	position: center;
+	}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  color: red;
+  text-align: center;
+}

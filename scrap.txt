@@ -1,0 +1,39 @@
+questions:
+TV & Movies["This actor has a game based off connecting other celebrities to him in 6 degrees.", "Leonardo DiCaprio won an Oscar for which role?", "Which movie was nominated for the most Oscars?", "Which of these actors has not received an EGOT?", "Which movies is not based off a book?" ]
+SNL: ["Who has hosted Saturday Night Live the most times?", "Who has been banned from SNL?", "Who has not been an anchor on Weekend Update?", "Who was not part of the original SNL cast?", "Who was been a SNL cast member the longest?"]
+Gossip: ["Who is singer Elle King's famous father?", "Which of the following fellas did not date Taylor Swift?", "Who is Gwen Stefani's current beau?", "What diet plan is Oprah currently following?", "Who broke up with their ex by ghosting them?"]
+
+
+A:  ["Kevin Bacon", "None of the above", "Titanic", "Kate Winslet", "Matrix"]
+
+B:["Tom Cruise", "Django Unchained", "The Godfather", "Audrey Hepburn","Mrs. Doubtfire"]
+
+C:["Samuel L. Jackson", "Titanic", "Citizen Kane", "Whoopi Goldberg", "Pitch Perfect"]
+
+D:["Morgan Freeman", "The Wolf of Wall Street", "Star Wars", "Tracy Jordan", "Die Hard"]
+
+
+A: ["Alec Baldwin", "Adrien Brody", "Adam Sandler", "Steve Martin", "Darrell Hammond"]
+
+B: ["Steve Martin", "Kanye West", "Jimmy Falon", "John Belushi", "Kenan Thompson"]
+
+C: ["John Goodman", "Miley Cryus", "Dan Aykroyd", "Chevy Chase", "Seth Meyers"]
+
+D: ["Christopher Walken", "Paris Hilton", "Chevy Chase", "Dan Aykroyd", "Fred Armisen"]
+
+A:  ["Rob Schneider", "Dave Franco", "Blake Shelton", "Weight Watchers", "Charlize Theorn"]
+
+B: ["Adam Sandler", "Harry Styles", "Gavin Rossdale", "Nutri-System", "Taylor Swift"]
+
+C: ["Joey King", "John Mayer", "Adam Levine", "The Atkins Diet Program", "John Mayer"]
+
+D: ["Elvis Presley", "Jake Gyllenhaal", "Chris Martin", "Jenny Craig", "Katy Perry"]
+
+var instructions = document.getElementsByClassName(".instructions")
+var question = document.getElementsByClassName(".question")
+var optionA = button.getElementById(".optionA")
+var optionB = button.getElementById(".optionB")
+var optionC = button.getElementById(".optionC")
+var optionD = button.getElementById(".optionD")
+var  = document.querySelector(".answer")
+var platButton = document.getElementById(".playbutton")

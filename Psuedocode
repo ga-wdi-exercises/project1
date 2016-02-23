@@ -1,7 +1,18 @@
 
-Welcome
-instructions
-round 1
-round 2
-round 3
-playAgain
+Welcome screen w instructions - click button to play - hide after clicked
+
+round 1 (put timer for 10-5secs then transition to question 1)
+question 1
+answer - correct button will highlight green
+if answered incorrectly - change incorrect answer button to red and highlight correct the answer in green.
+
+round 2 -- (put timer for 10-5secs then transition to question 2 OR PRESS BUTTON TO PLAY)
+question 2
+answer - correct button will highlight green
+if answered incorrectly - change incorrect answer button to red and highlight correct the answer in green.
+
+round 3 -- (put timer for 10-5secs then transition to question 2 OR PRESS BUTTON TO PLAY)
+question 3
+answer - correct button will highlight green
+if answered incorrectly - change incorrect answer button to red and highlight correct the answer in green.
+playAgain - do you want to play again - yes or no, if yes restart game if no, thank you for playing

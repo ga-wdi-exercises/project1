@@ -16,3 +16,9 @@ question 3
 answer - correct button will highlight green
 if answered incorrectly - change incorrect answer button to red and highlight correct the answer in green.
 playAgain - do you want to play again - yes or no, if yes restart game if no, thank you for playing
+
+
+var- questions
+var answerOptions
+var answer
+var round

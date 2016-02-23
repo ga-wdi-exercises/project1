@@ -4,43 +4,79 @@ head {
 Body {
 	text-align: center;
 	background: url("yellow-striped-background-seamless.jpg");
-	position: static;
   font-family: 'Playfair Display', serif;
 	color: #ffffff;
 	}
 
 h1 {
   font-family: 'Showtime', serif;
-  font-size: 100px;
+  font-size: 200px;
   color: #ffffff;
   text-align: center;
 }
 
 .question{
+	text-align:
 	border: 1px solid #000000;
 	background-color:#ffffff;
 	color:#000000;
 	border-radius:30px ;
-	border-width: 15px;
-	padding: 15px 32px;
-	text-align: center;
+	border-width: thin;
 	font-size: 16px;
 	font-family: 'Playfair Display', serif;
 	width:1000px;
 	height: 500px;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	margin-left: 50px;
-	margin-right: 50px;
+	padding: 15px 32px;
 }
 
-.answerOptions {
+#optionA {
 	background-color:#84cec9;
 	color:#ffffff;
 	border-radius:30px ;
 	padding: 15px 32px;
 	text-align: center;
-	align: center;
+	display: block;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:500px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#optionB {
+	background-color:#84cec9;
+	color:#ffffff;
+	border-radius:30px ;
+	padding: 15px 32px;
+	text-align: center;
+	display: block;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:500px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#optionC {
+	background-color:#84cec9;
+	color:#ffffff;
+	border-radius:30px ;
+	padding: 15px 32px;
+	text-align: center;
+	display: block;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:500px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#optionD {
+	background-color:#84cec9;
+	color:#ffffff;
+	border-radius:30px ;
+	padding: 15px 32px;
+	text-align: center;
 	display: block;
 	font-size: 16px;
 	font-family: 'Playfair Display', serif;
@@ -50,14 +86,29 @@ h1 {
 	margin-bottom: 20px;
 }
 
+ {
+	background-color:#84cec9;
+	color:#ffffff;
+	border-radius:30px ;
+	padding: 15px 32px;
+	text-align: center;
+	display: block;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:500px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
 .instructions{
 	border: 1px solid #000000;
 	background-color:#ffffff;
 	color:#red;
 	border-radius:30px ;
-	border-width: 15px;
+	border-width: thin;
 	padding: 15px 32px;
-	text-align: center;
 	font-size: 16px;
 	font-family: 'Playfair Display', serif;
 	width:1000px;

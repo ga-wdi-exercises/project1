@@ -20,7 +20,7 @@ if(whichClickAreWeOn === 2){
   //if click1===click2{Success!}
   //else{code for failure}
 
-
+whichClickAreWeOn ===1;
 
 
 
@@ -29,7 +29,5 @@ if(whichClickAreWeOn === 2){
 
 
 }
-whichClickAreWeOn ===1;
-
   });
 }

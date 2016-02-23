@@ -9,4 +9,13 @@ Initial Goal:
   Gold Level Goal: fully automated, add random generate button, visually appealing. *** come back to this.
 
   =================
-  
+
+  Okay. Reset. Bronze level above is actually a silver, perhaps. Must start smaller:
+1. name my pictures (img elements)
+2. name my sidebar names (divs)
+3. make them clickable.
+4. see if I can store that data and compare it.
+5. if it matches - win! 
+6. if it doesn't - lose!
+7. when it's over? STOP.
+8* reset button

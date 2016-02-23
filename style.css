@@ -1,12 +1,29 @@
-.nameOfGame {
-          font-family:'Amatic SC', cursive;
-          font-size: 34px;
+* {
+  border:dotted gray;
+}
+html, body {
+    width: 100%;
+}
+#cardTable {
+    margin: 0 auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
 }
 
+.nameOfGame {
+    font-family:'Amatic SC', cursive;
+    font-size: 100px;
+    text-align: center;
+    }
 img {
     width:200px;
     height:200px;
-}
-table, td {
+    }
+#cardTable, td {
     border: 5px black solid;
-}
+    }
+th {
+    font-family:'Amatic SC', cursive;
+    font-size: 50px;
+    }

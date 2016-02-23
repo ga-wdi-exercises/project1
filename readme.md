@@ -179,4 +179,8 @@ You'll be assigned a group number on the day of the presentation.
 //
 I selected the trivia game as my project 1 subject. Mainly bc I just enjoy those more. I may regret my decision later. Over the weekend I found some designs that I could use so that would not take up project week time.
 
-I am going to start small with just 3 topics with one question. If time permits, I will add 3 questions per round. But I am starting simple stupid so the game will be basic for stage 1. 
+I am going to start small with just 3 topics with one question. If time permits, I will add 3 questions per round. But I am starting simple stupid so the game will be basic for stage 1.
+
+bronze plan : trivia questions on the page
+silver plan: being able to interact and answer the questions
+gold plan: for the jquery animation to work and flow easily.

@@ -3,15 +3,99 @@ head {
 }
 Body {
 	text-align: center;
-	background: url("file:///Users/FHaider/wdi/home/project1/ThinkstockPhotos-508632991-1.jpg");
+	background: url("yellow-striped-background-seamless.jpg");
+	position: static;
   font-family: 'Playfair Display', serif;
 	color: #ffffff;
-	position: center;
 	}
 
 h1 {
-  font-family: 'Playfair Display', serif;
-  font-size: 24px;
-  color: red;
+  font-family: 'Showtime', serif;
+  font-size: 100px;
+  color: #ffffff;
   text-align: center;
 }
+
+.question{
+	border: 1px solid #000000;
+	background-color:#ffffff;
+	color:#000000;
+	border-radius:30px ;
+	border-width: 15px;
+	padding: 15px 32px;
+	text-align: center;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:1000px;
+	height: 500px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.answerOptions {
+	background-color:#84cec9;
+	color:#ffffff;
+	border-radius:30px ;
+	padding: 15px 32px;
+	text-align: center;
+	align: center;
+	display: block;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:500px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.instructions{
+	border: 1px solid #000000;
+	background-color:#ffffff;
+	color:#red;
+	border-radius:30px ;
+	border-width: 15px;
+	padding: 15px 32px;
+	text-align: center;
+	font-size: 16px;
+	font-family: 'Playfair Display', serif;
+	width:1000px;
+	height: 250px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 46px;
+  color: #ffffff;
+  text-align: center;
+}
+
+p1 {
+	font-family: 'Playfair Display', serif;
+  font-size: 24px;
+  color: #000000;
+  text-align: center;
+}
+
+button {
+	border: 1px solid #000000;
+	background-color:#84cec9;
+	color:#ffffff;
+	border-radius:30px ;
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 24px;
+	display: block;
+	position: center;
+}
+
+h3 {
+  font-family: 'Showtime', serif;
+  font-size: 200px;
+  color: #ffffff;
+  text-align: center;

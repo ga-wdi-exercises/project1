@@ -1,11 +1,11 @@
 function trivia(){
 //var instructions = document.getElementsByClassName(".instructions")
-var question = document.getElementsByClassName('question');
-var optionA = document.getElementById("optionA");
-var optionB = document.getElementById("optionB");
-var optionC = document.getElementById("optionC");
-var optionD = document.getElementById("optionD");
-var correctAnswer = document.querySelector(".correctAnswer");
+var question1 = document.querySelector(".question");
+var optionA1 = document.getElementById("optionA");
+var optionB1 = document.getElementById("optionB");
+var optionC1 = document.getElementById("optionC");
+var optionD1 = document.getElementById("optionD");
+var correctAnswer1 = document.querySelector(".correctAnswer");
 //var playButton = document.getElementById(".playbutton")
 //var score = document.getElementById(".score")
 //score = 0;
@@ -22,21 +22,37 @@ optionD = ["Morgan Freeman", "The Wolf of Wall Street", "Star Wars", "Tracy Jord
 correctAnswer = ["Kevin Bacon", "None of the above", "Titanic", "Kate Winslet", "Matrix"];
 
 function questionAnswers(){
-  question.innerHTML = question[i];
-  optionA.innerHTML = optionA[i];
-  optionB.innerHTML = optionB[i];
-  optionB.innerHTML = optionC[i];
-  optionD.innerHTML = optionD[i];
+  question1.innerHTML = question[i];
+  optionA1.innerHTML = optionA[i];
+  optionB1.innerHTML = optionB[i];
+  optionC1.innerHTML = optionC[i];
+  optionD1.innerHTML = optionD[i];
 }
 
-function next (){
-for (i = 0; i < question.length; i++) {
-  if (question[i] == 5) {
-    break;
-  }
-}
-}
+// function next (){
+// for (i = 0; i < question.length; i++) {
+//   if (question[i] == 5) {
+//     break;
+//   }
+// }
+// }
+
+// question1.addEventListener("click", next);
+// optionA1.addEventListener("click", next);
+// optionB1.addEventListener("click", next);
+// optionC1.addEventListener("click", next);
+// optionD1.addEventListener("click", next);
+// correctAnswer1.addEventListener("click", next);
+
+// show correct answer in green & incorrect in red//
+// }
+// function (correctAnswer){
+//  button.body.style.backgroundColor = green
+// }
+// function(incorrectAnswer){
+//    button.body.style.backgroundColor = red
 questionAnswers()
+next()
 }
 trivia()
 //round 2 start//
@@ -55,26 +71,3 @@ trivia()
 //end of round 3 & game
 
 //prompt outcome//
-
-
-
-
-
-
-//add eventlisteners//
-//figure out function to provide
-//question.addEventListener("onload", startTimer)
-//optionA.addEventListener("onclick", changeGreen);
-//optionB.addEventListener("click", hide);
-//optionC.addEventListener("click", hide);
-//optionD.addEventListener("click", changeYellow);
-//correctAnswer.addEventListener("onclick", changeGreen);
-
-//show correct answer in green & incorrect in red//
-//}
-//function (correctAnswer){
-//  button.body.style.backgroundColor = green
-//}
-//function(incorrectAnswer){
-//    button.body.style.backgroundColor = red
-//}

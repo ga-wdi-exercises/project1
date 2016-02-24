@@ -2,7 +2,11 @@
 whichClickAreWeOn = 1
 firstGuess=null
 secondGuess=null
-function compare(){console.log("compare successful")}
+function compare(){
+  if(firstGuess === secondGuess){
+    alert("You guessed right!");
+    }else {alert("Nope!");}
+  }
 
 var select = document.querySelectorAll(".clickable");
 console.log(select);
@@ -16,9 +20,10 @@ for (var i=0;i<select.length;i++){
       else{
         secondGuess=this.getAttribute("name");
         console.log("your second guess is "+secondGuess);
+//++++++call compare function (global) ++++++ //
 
         compare();
-        
+
   firstGuess = null;
   secondGuess = null;
     }

@@ -1,6 +1,12 @@
+
+
 firstGuess=null
 secondGuess=null
+//get an array of the divs inside sidebar one.
 
+//
+
+var yousGuysNames = []
 
 function compare(){
   if(firstGuess === secondGuess){
@@ -31,6 +37,7 @@ for (var i=0; i<select.length; i++){
     }
   })
 }
+
 
 
 ///=========scratchpad======///

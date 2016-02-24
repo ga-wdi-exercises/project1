@@ -5,6 +5,13 @@ var optionC = "Samuel L. Jackson"
 var optionD = "Morgan Freeman"
 correctAnswer= (optionA)
 
+<div class="instructions">
+<h2> Instructions</h2>
+<p1> You will have 3 rounds of questions with 30 seconds to answer each question. To start playing, press the play button.</p1>
+<button id="playbutton">PLAY!</button>
+</div>
+<h3>(Round_1)</h3>
+
 questions:
 TV & Movies["This actor has a game based off connecting other celebrities to him in 6 degrees.", "Leonardo DiCaprio won an Oscar for which role?", "Which movie was nominated for the most Oscars?", "Which of these actors has not received an EGOT?", "Which movies is not based off a book?" ]
 SNL: ["Who has hosted Saturday Night Live the most times?", "Who has been banned from SNL?", "Who has not been an anchor on Weekend Update?", "Who was not part of the original SNL cast?", "Who was been a SNL cast member the longest?"]

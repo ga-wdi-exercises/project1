@@ -5,6 +5,7 @@ var optionB1 = document.getElementById("optionB");
 var optionC1 = document.getElementById("optionC");
 var optionD1 = document.getElementById("optionD");
 var correctAnswer1 = document.querySelector(".correctAnswer");
+//var incorrectAnswer1 = document.querySelector(".incorrectAnswer");
 var arrayLength = question1.length;
 i = 0;
 
@@ -30,12 +31,17 @@ optionB1.addEventListener("click", next);
 optionC1.addEventListener("click", next);
 optionD1.addEventListener("click", next);
 
+//function(incorrectAnswer1){
+//   document.body.style.backgroundColor = red
+//}
 function next (){
   console.log(this.classList.contains("correctAnswer"));
   var index =parseInt( question1.getAttribute("data-index"));
-  questionAnswers(1 + index)
+  questionAnswers(1 + index);
 }
-
+// function (turnGreen){
+//  document.body.style.color = "green"
+// }
 //correctAnswer1.addEventListener("click", next);
 
 // show correct answer in green & incorrect in red//

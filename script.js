@@ -1,5 +1,3 @@
-
-whichClickAreWeOn = 1
 firstGuess=null
 secondGuess=null
 function compare(){
@@ -23,12 +21,17 @@ for (var i=0; i<select.length; i++){
 //++++++call compare function (global) ++++++ //
 
         compare();
+//+++++++now start with trying to change picture++//
+
+    
 
   firstGuess = null;
   secondGuess = null;
     }
   })
 }
+
+
 ///=========scratchpad======///
     /*
 

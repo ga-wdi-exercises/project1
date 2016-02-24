@@ -1,16 +1,13 @@
-}
-html, body {
-    width: 100%;
-}
-
 #sidebar1 {
     position:fixed;
-    top:5px; bottom:5px; left:30px;
+    left:30px;
+    top:5px;
+    bottom:5px;
     width:100px;
-    padding:auto;
     background:#9fc6cc;
     border:black solid 4px;
     border-radius:12%;
+    height: 100vh;
 }
 #sidebar1 > div {
     position:relative;
@@ -19,21 +16,23 @@ html, body {
     text-align: center;
     margin:3px 1px 3px 1px;
     border:.5px solid black;
-    padding:5%;
     border-radius:20px;
     background-color: white;
-
+    height: 5.5%;
 }
 
 #sidebar2 {
-    position:fixed;
-    top:5px; bottom:5px; right:30px;
-    width:100px;
-    padding:auto;
-    background:#9fc6cc;
-    border:black solid 4px;
-    border-radius:12%;
+  position:fixed;
+  right:30px;
+  top:5px;
+  bottom:5px;
+  width:100px;
+  background:#9fc6cc;
+  border:black solid 4px;
+  border-radius:12%;
+  height: 100vh;
 }
+
 #sidebar2 > div {
     position:relative;
     font-family:'Amatic SC', cursive;
@@ -41,10 +40,13 @@ html, body {
     text-align: center;
     margin:3px 1px 3px 1px;
     border:.5px solid black;
-    padding:5%;
     border-radius:20px;
-    background-color:white;
+    background-color: white;
+    height: 5.5%;
+}
 
+.container {
+  height:100vh;
 }
 
 
@@ -60,9 +62,10 @@ html, body {
     font-size: 100px;
     text-align: center;
     }
+
 img {
-    width:200px;
-    height:200px;
+    max-width:200px;
+    max-height:200px;
     }
 #cardTable, td {
     border: 5px black solid;

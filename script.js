@@ -1,5 +1,7 @@
 firstGuess=null
 secondGuess=null
+
+
 function compare(){
   if(firstGuess === secondGuess){
     alert("You guessed right!");
@@ -23,7 +25,6 @@ for (var i=0; i<select.length; i++){
         compare();
 //+++++++now start with trying to change picture++//
 
-    
 
   firstGuess = null;
   secondGuess = null;

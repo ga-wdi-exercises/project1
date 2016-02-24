@@ -6,6 +6,7 @@ Body {
 	background: url("yellow-striped-background-seamless.jpg");
   font-family: 'Playfair Display', serif;
 	color: #ffffff;
+
 	}
 
 h1 {
@@ -15,24 +16,25 @@ h1 {
   text-align: center;
 }
 
-.question{
-	text-align:
-	border: 1px solid #000000;
+.question {
+	text-align:center;
+	border: 2px solid #000000;
 	background-color:#ffffff;
 	color:#000000;
 	border-radius:30px ;
-	border-width: thin;
+	border-width:medium;
 	font-size: 16px;
 	font-family: 'Playfair Display', serif;
 	width:1000px;
 	height: 500px;
 	padding: 15px 32px;
+		margin: auto;
 }
 
 #optionA {
 	background-color:#84cec9;
 	color:#ffffff;
-	border-radius:30px ;
+	border-radius:15px ;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
@@ -41,12 +43,13 @@ h1 {
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
 #optionB {
 	background-color:#84cec9;
 	color:#ffffff;
-	border-radius:30px ;
+	border-radius:15px ;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
@@ -55,12 +58,13 @@ h1 {
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
 #optionC {
 	background-color:#84cec9;
 	color:#ffffff;
-	border-radius:30px ;
+	border-radius:15px ;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
@@ -69,12 +73,13 @@ h1 {
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
 #optionD {
 	background-color:#84cec9;
 	color:#ffffff;
-	border-radius:30px ;
+	border-radius:15px ;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
@@ -83,7 +88,8 @@ h1 {
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
  {
@@ -99,24 +105,6 @@ h1 {
 	margin-bottom: 20px;
 	margin-top: 20px;
 	margin-bottom: 20px;
-}
-
-
-.instructions{
-	border: 1px solid #000000;
-	background-color:#ffffff;
-	color:#red;
-	border-radius:30px ;
-	border-width: thin;
-	padding: 15px 32px;
-	font-size: 16px;
-	font-family: 'Playfair Display', serif;
-	width:1000px;
-	height: 250px;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	margin-left: 50px;
-	margin-right: 50px;
 }
 
 h2 {
@@ -137,7 +125,7 @@ button {
 	border: 1px solid #000000;
 	background-color:#84cec9;
 	color:#ffffff;
-	border-radius:30px ;
+	border-radius:15px ;
 	text-align: center;
 	font-family: 'Playfair Display', serif;
 	font-size: 24px;
@@ -157,12 +145,20 @@ h4 {
 	color: #ffffff;
   text-align: center;
 }
-b1 {
+
+.p1{
+
+}
+
+.b1 {
 
 }
 .scoreboard {
 }
 
-timer{
+timer {
+}
 
+.green {
+    color: green;
 }

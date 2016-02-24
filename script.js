@@ -30,10 +30,10 @@ Correctanswer: ["Kevin Bacon", "None of the above", "Titanic", "Kate Winslet", "
 //list variables//
 var instructions = document.getElementsByClassName(".instructions")
 var question = document.getElementsByClassName(".question")
-var optionA = li.getElementById(".optionA")
-var optionB = li.getElementById(".optionB")
-var optionC = li.getElementById(".optionC")
-var optionD = li.getElementById(".optionD")
+var optionA = button.getElementById(".optionA")
+var optionB = button.getElementById(".optionB")
+var optionC = button.getElementById(".optionC")
+var optionD = button.getElementById(".optionD")
 var correctAnswer = document.querySelector(".CorrectAnswer")
 var playButton = document.getElementById(".playbutton")
 var timer = document.querySelector(".timer")
@@ -54,10 +54,10 @@ correctAnswer.addEventListener("onclick", changeGreen);
 //show correct answer in green & incorrect in red//
 }
 function (correctAnswer){
-  li.body.style.backgroundColor = green
+  button.body.style.backgroundColor = green
 }
 function(incorrectAnswer){
-    li.body.style.backgroundColor = red
+    button.body.style.backgroundColor = red
 }
 
 //round 1 then break//
@@ -99,6 +99,7 @@ function StartTimer() {
 function submitForm() {
     document.getElementById("submit").submit();
 }
+var ct =
 function calculate_time() {
     var end_time = "<?php echo $_SESSION["start_time"]; ?>"; // Get end time from session variable (total time in seconds).
     var dt = new Date(); // Create date object.

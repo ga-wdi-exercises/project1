@@ -11,7 +11,7 @@ function compare(){
 var select = document.querySelectorAll(".clickable");
 console.log(select);
 
-for (var i=0;i<select.length;i++){
+for (var i=0; i<select.length; i++){
   select[i].addEventListener("click",function(){
     //console.log(this.getAttribute("name"));
       if (firstGuess == null){
@@ -27,9 +27,9 @@ for (var i=0;i<select.length;i++){
   firstGuess = null;
   secondGuess = null;
     }
-      })
+  })
 }
-
+///=========scratchpad======///
     /*
 
 if(whichClickAreWeOn === 1){

@@ -1,7 +1,7 @@
 # Presentations
 
-Presentations will start on Thursday at 2:00pm. We expect everyone to attend every session
-and will provide 15 minute breaks between each session.
+Presentations will start on Thursday at 2:30pm. We expect everyone to attend every session
+and will provide 10 minute breaks between each session.
 
 This means **no working on your code** while others are presenting. This is your chance
 to ask others how they tackled their project.
@@ -20,11 +20,11 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 
 | Time        | Group  |
 |:-----------:|:------:|
-| 2:00 - 2:40 | 1      |
-| 2:50 - 3:30 | 2      |
-| 3:40 - 4:20 | 3      |
+| 2:30 - 3:00 | 1      |
+| 3:10 - 3:40 | 2      |
+| 3:50 - 4:20 | 3      |
 
-### Group 1 (2:00 - 2:40)
+### Group 1 (2:30 - 3:00)
 ```text
 CLASSROOM 4:
 
@@ -36,7 +36,7 @@ CLASSROOM 5:
 - Adrian
 
 ```
-### Group 2 (2:50 - 3:30)
+### Group 2 (3:10 - 3:40)
 ```text
 CLASSROOM 4:
 
@@ -47,7 +47,7 @@ CLASSROOM 5:
 - Nick
 
 ```
-### Group 3 (3:40 - 4:20)
+### Group 3 (3:50 - 4:20)
 ```text
 CLASSROOM 4:
 

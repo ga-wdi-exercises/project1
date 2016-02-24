@@ -159,21 +159,13 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 Day | Time | Event | who
 ----- | ------------ | ----- | -----
 Tuesday | 10:00 - 12:30 | Outcomes | everyone
-Thursday | 12:00 | Code freeze/Projects due | everyone
 Thursday | 2:30 - 5:00 | Project 1 Presentations | everyone
 
 ### Presentations
 
 All presentations will be science fair style. There will be 3 separate groups. During your group's 45-minute block, you'll set up at a table and demo / discuss your project with the non-presenting students as they walk around.
 
-#### Schedule for Presentations
-You'll be assigned a group number on the day of the presentation.
-
-| Time        | Group  |
-|:-----------:|:------:|
-| 2:00 - 2:40 | 1      |
-| 2:50 - 3:30 | 2      |
-| 3:40 - 4:20 | 3      |
+[Please view the schedule here.](presentations.md)
 
 #### Retro
 

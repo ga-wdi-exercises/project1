@@ -6,7 +6,7 @@ var optionC1 = document.getElementById("optionC");
 var optionD1 = document.getElementById("optionD");
 var correctAnswer1 = document.querySelector(".correctAnswer");
 //var incorrectAnswer1 = document.querySelector(".incorrectAnswer");
-var arrayLength = question1.length;
+//var arrayLength = question1.length;
 i = 0;
 
 question = ["Which actor has a game based off connecting other celebrities to him in 6 degrees?", "Leonardo DiCaprio won an Oscar for which role?", "Which movie was nominated for the most Oscars?", "Which of these actors has not received an EGOT?", "Which movies is not based off a book?", "Who has hosted Saturday Night Live the most times?", "Who has been banned from SNL?", "Who has not been an anchor on Weekend Update?", "Who was not part of the original SNL cast?", "Who was been a SNL cast member the longest?",
@@ -31,28 +31,12 @@ optionB1.addEventListener("click", next);
 optionC1.addEventListener("click", next);
 optionD1.addEventListener("click", next);
 
-//function(incorrectAnswer1){
-//   document.body.style.backgroundColor = red
-//}
 function next (){
   console.log(this.classList.contains("correctAnswer"));
   var index =parseInt( question1.getAttribute("data-index"));
   questionAnswers(1 + index);
 }
-// function (turnGreen){
-//  document.body.style.color = "green"
-// }
-//correctAnswer1.addEventListener("click", next);
 
-// show correct answer in green & incorrect in red//
-// }
-// function (correctAnswer){
-//  button.body.style.backgroundColor = green
-// }
-// function(incorrectAnswer){
-//    button.body.style.backgroundColor = red
 questionAnswers(i)
 }
 trivia()
-//end of round 3 & game
-//prompt outcome//

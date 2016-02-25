@@ -1,3 +1,11 @@
+width:750px;
+height: 325px;
+border-radius:30px ;
+border-width:medium;
+border: 2px solid #000000;
+background-color:#ffffff;
+
+
 var question =("This actor has a game based off connecting other celebrities to him in 6 degrees.");
 var optionA = "Kevin Bacon"
 var optionB = "Tom Cruise"

@@ -2,8 +2,8 @@ firstGuess=null
 secondGuess=null
 function compare(){
   if(firstGuess === secondGuess){
-    alert("You guessed right!");
-    }else {alert("Nope!");}
+    alert("You got it! Good job!");
+  }else {alert("Nope! Try again! ");}
   }
 //++++++++++++
 var select = document.querySelectorAll(".clickable");

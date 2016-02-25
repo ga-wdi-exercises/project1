@@ -5,11 +5,12 @@
     bottom:5px;
     width:120px;
     background:#9fc6cc;
-    border:black solid 2px;
+    border:black solid 4px;
     border-radius:12%;
     height: 100vh;
 }
 #sidebar1 > button {
+    padding:2px;
     position:relative;
     font-family:'Amatic SC', cursive;
     font-size: 23px;
@@ -18,7 +19,7 @@
     border:.5px solid black;
     border-radius:20px;
     background-color: white;
-    height: 5.5%;
+    height: 7%;
 }
 
 #sidebar2 {
@@ -28,12 +29,13 @@
   bottom:5px;
   width:120px;
   background:#9fc6cc;
-  border:black solid 2px;
+  border:black solid 4px;
   border-radius:12%;
   height: 100vh;
 }
 
 #sidebar2 > button {
+    padding: 2px;
     position:relative;
     font-family:'Amatic SC', cursive;
     font-size: 23px;

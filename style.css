@@ -12,21 +12,22 @@ Body {
 
 h1 {
   font-family: 'Showtime', serif;
-  font-size: 75px;
+  font-size: 150px;
   color: #ffffff;
   text-align: center;
 }
 
 .question {
-	background-image: url("Varios_06_2.png");
-	text-align:center;
+	background: url("Varios_06_2.png");
+	background-position: fixed;
+	text-align: center;
 	color:#000000;
-	font-size: 70px;
+	font-size: 50px;
 	font-family: 'Abril Fatface', cursive;
-	padding: 15px 30px;
-		margin: auto;
-		width: 800px;
-		height: 400px;
+	padding: 100px 30px 15px 30px;
+	margin: auto;
+	width:800px;
+	height: 315px;
 }
 
 #optionA {
@@ -34,9 +35,9 @@ h1 {
 	color:#ffffff;
 	border-radius:15px ;
 	padding: 15px 32px;
-	text-align: center;
-	display: block;
-	font-size: 16px;
+	text-align:center;
+	display:block;
+	font-size: 24px;
 	font-family: 'Abril Fatface', serif;
 	width:500px;
 	margin-bottom: 20px;
@@ -51,8 +52,8 @@ h1 {
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
-	font-size: 16px;
-	font-family: 'Abril Fatface', serif;
+	font-size: 24px;
+	font-family: 'Abril Fatface', cursive;
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -66,8 +67,8 @@ h1 {
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
-	font-size: 16px;
-	font-family: 'Playfair Display', serif;
+	font-size: 24px;
+	font-family: 'Abril Fatface', cursive;
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -81,28 +82,13 @@ h1 {
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
-	font-size: 16px;
-	font-family: 'Playfair Display', serif;
+	font-size: 24px;
+	font-family: 'Abril Fatface', cursive;
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
- {
-	background-color:#60ADA2;
-	color:#ffffff;
-	border-radius:30px ;
-	padding: 15px 32px;
-	text-align: center;
-	display: block;
-	font-size: 16px;
-	font-family: 'Playfair Display', serif;
-	width:500px;
-	margin-bottom: 20px;
-	margin-top: 20px;
-	margin-bottom: 20px;
 }
 
 h2 {

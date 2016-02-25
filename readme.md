@@ -49,6 +49,16 @@ The URL section of your Github repo:
 
 ---
 
+### Submission
+
+Please follow the instructions here to submit your project:
+
+https://github.com/ga-dc/wdi8-project1-gallery
+
+You must turn in something before presentations begin. However, you're welcome to continue working on it over the course of WDI and beyond!
+
+---
+
 ### Deploying via GitHub Pages.
 
 **DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? They expect `gh_pages` to be a separate informational site about the project contained in the repo. What we want is to use the `gh_pages` functionality to actually host our application.

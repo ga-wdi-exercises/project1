@@ -1,19 +1,11 @@
-
-
 firstGuess=null
 secondGuess=null
-//get an array of the divs inside sidebar one.
-
-//
-
-var yousGuysNames = []
-
 function compare(){
   if(firstGuess === secondGuess){
     alert("You guessed right!");
     }else {alert("Nope!");}
   }
-
+//++++++++++++
 var select = document.querySelectorAll(".clickable");
 console.log(select);
 
@@ -27,16 +19,13 @@ for (var i=0; i<select.length; i++){
         secondGuess=this.getAttribute("name");
         console.log("your second guess is "+secondGuess);
 //++++++call compare function (global) ++++++ //
-
-        compare();
-//+++++++now start with trying to change picture++//
-
-
+            compare();
+//++++now, get how cool this is! Reset your variables so you can do it over and over!
   firstGuess = null;
   secondGuess = null;
-    }
-  })
-}
+  } // caps the else function.
+}) // caps the eventListener function
+}//caps the hole for loop that sets the "this" and the for/eventListener function.
 
 
 

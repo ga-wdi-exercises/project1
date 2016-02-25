@@ -20,6 +20,9 @@
     background-color: white;
     height: 6%;
 }
+#sidebar1 > button:hover {
+  background-color: #999;
+}
 
 #sidebar2 {
   position:fixed;
@@ -45,6 +48,10 @@
   height: 6%;
 }
 
+#sidebar2 > button:hover {
+  background-color: #999;
+}
+
 .container {
   height:100vh;
 }
@@ -67,6 +74,10 @@ img {
     max-width:200px;
     max-height:200px;
     }
+
+img:hover {
+  opacity: .6;
+}
 #cardTable, td {
     background-image:url("OldMap.jpg");
     border: 5px black solid;

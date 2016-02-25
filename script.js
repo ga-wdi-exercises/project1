@@ -40,29 +40,29 @@ function questionAnswers(i){
     }
   });
     optionB1.addEventListener("click", function () {
+      next();
       if (this.classList.contains("correctAnswer")) {
         if (this.innerHTML == this.classList.contains("correctAnswer", [i])); {
           score++;
           alert("Sorry, you got it wrong!");
-          next();
         }
         }
       });
         optionC1.addEventListener("click", function () {
+          next();
           if (this.classList.contains("correctAnswer")) {
             if (this.innerHTML == this.classList.contains("correctAnswer", [i])); {
               score++;
               alert("Sorry, you got it wrong!");
-              next();
             }
             }
           });
             optionD1.addEventListener("click", function () {
+              next();
               if (this.classList.contains("correctAnswer")) {
                 if (this.innerHTML == this.classList.contains("correctAnswer", [i])); {
                   score++;
                   alert("Sorry, you got it wrong!");
-                    next();
                 }
                 }
               });

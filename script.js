@@ -36,23 +36,7 @@ function next (){
   console.log(this.classList.contains("correctAnswer"));
   var index =parseInt( question1.getAttribute("data-index"));
   questionAnswers(1 + index);
-   document.getElementById("demo").innerHTML = "";
   }
-
-
-  for( i = 0; i < foods[0].length; i++){
-    console.log("I want to eat a " + foods[0][i]);
-  }
-
-  function basicPopup(url) {
-  popupWindow = window.open(url,'popUpWindow','height=300,width=700,left=50,top=50,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no, status=yes')
-  	}
-
-function rightAnswer(){
-  if (answerOptions == "correctAnswer");
-  optionA[i] = ("You got it right!");
-  window.open("https://github.com/ga-wdi-exercises/project1");
-}
 
 questionAnswers(i)
 }

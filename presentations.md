@@ -26,7 +26,7 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 
 ### Group 1 (2:30 - 3:00)
 ```text
-CLASSROOM 4:
+CLASSROOM 6:
 
 - Jesse
 
@@ -38,7 +38,7 @@ CLASSROOM 5:
 ```
 ### Group 2 (3:10 - 3:40)
 ```text
-CLASSROOM 4:
+CLASSROOM 6:
 
 - Becky
 
@@ -49,7 +49,7 @@ CLASSROOM 5:
 ```
 ### Group 3 (3:50 - 4:20)
 ```text
-CLASSROOM 4:
+CLASSROOM 6:
 
 - Robin
 

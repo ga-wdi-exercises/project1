@@ -1,4 +1,5 @@
-<link href='https://fonts.googleapis.com/css?family=Abril+Fatface|Playfair+Display:400,900,700' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Bangers|Denk+One|Playfair+Display:400,900italic,900,700italic,700,400italic|Abril+Fatface|Kadwa:400,700|Carter+One|Laila:400,300,700,600,500|Elsie:400,900|Rozha+One|Playfair+Display+SC:400,400italic,700,700italic,900,900italic|Volkhov:400,700italic,700,400italic|Roboto+Mono:400,700,500,100,300|Tinos:400,700|Nunito:400,700,300|Corben:400,700' rel='stylesheet' type='text/css'>
+
 head {
 }
 Body {
@@ -17,11 +18,11 @@ h1 {
 }
 
 .question {
-	background-image: url("file:///Users/LaFrish/wdi/projects/project1/Varios_06_3.png");
+	background-image: url("Varios_06_2.png");
 	text-align:center;
 	color:#000000;
 	font-size: 70px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Abril Fatface', cursive;
 	padding: 15px 30px;
 		margin: auto;
 		width: 800px;
@@ -29,14 +30,14 @@ h1 {
 }
 
 #optionA {
-	background-color:#84cec9;
+	background-color:#60ADA2;
 	color:#ffffff;
 	border-radius:15px ;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
 	font-size: 16px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Abril Fatface', serif;
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -44,14 +45,14 @@ h1 {
 	margin-right: auto;
 }
 #optionB {
-	background-color:#84cec9;
+	background-color:#60ADA2;
 	color:#ffffff;
 	border-radius:15px ;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
 	font-size: 16px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Abril Fatface', serif;
 	width:500px;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -59,7 +60,7 @@ h1 {
 	margin-right: auto;
 }
 #optionC {
-	background-color:#84cec9;
+	background-color:#60ADA2;
 	color:#ffffff;
 	border-radius:15px ;
 	padding: 15px 32px;
@@ -74,7 +75,7 @@ h1 {
 	margin-right: auto;
 }
 #optionD {
-	background-color:#84cec9;
+	background-color:#60ADA2;
 	color:#ffffff;
 	border-radius:15px ;
 	padding: 15px 32px;
@@ -90,7 +91,7 @@ h1 {
 }
 
  {
-	background-color:#84cec9;
+	background-color:#60ADA2;
 	color:#ffffff;
 	border-radius:30px ;
 	padding: 15px 32px;
@@ -120,7 +121,7 @@ p1 {
 
 button {
 	border: 1px solid #000000;
-	background-color:#84cec9;
+	background-color:#60ADA2;
 	color:#ffffff;
 	border-radius:15px ;
 	text-align: center;

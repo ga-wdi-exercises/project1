@@ -194,3 +194,11 @@ Achieved bronze level. Now need to make it interactive.
 Changing from jQuery to JavaScript DOM in the script.
 
 Need to list out variables. Listing them in the psuedocode.
+
+
+CORRECT USER STORIES
+I as a player would like to see the score
+I as a player would like to see the color of the buttons change if I were right or wrong
+I as a player would like to see my score
+I as a player would like to see the high score to beat
+I as a player would like to see more graphics

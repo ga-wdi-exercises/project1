@@ -1,7 +1,7 @@
 
 
 for (i = 0; i < question.length; i++) {
-  if (question[i] == 15) {
+  if (question[i] === 15) {
     break;
   }
 }

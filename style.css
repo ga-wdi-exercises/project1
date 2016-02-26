@@ -9,6 +9,12 @@
     border-radius:12%;
     height: 100vh;
 }
+p{
+  color: #000;
+  text-align: center;
+  font-size: 40px;
+  font-family:'Amatic SC', cursive;
+}
 #sidebar1 > button {
     position:relative;
     font-family:'Amatic SC', cursive;

@@ -51,7 +51,9 @@ The URL section of your Github repo:
 
 ### Submission
 
-Please follow the instructions here to submit your project:
+#### DO NOT FORK THIS REPOSITORY!
+
+Create a **new** repository. Then, please follow the instructions here to submit your project:
 
 https://github.com/ga-dc/wdi8-project1-gallery
 

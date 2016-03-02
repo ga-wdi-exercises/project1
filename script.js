@@ -10,18 +10,18 @@ $(document).ready(function(){
         alert("Nope! Try again! ");
       }
     }
-      for (var i=0; i<select.length; i++){
-        select[i].addEventListener("click",function(){
-          if(firstGuess == null){
-            firstGuess=this.getAttribute("name");
-          }else{
-            secondGuess=this.getAttribute("name");
-            compare();
-            firstGuess = null;
-            secondGuess = null;
-          }
-        })
-      }
+    for (var i=0; i<select.length; i++){
+      select[i].addEventListener("click",function(){
+        if(firstGuess == null){
+          firstGuess=this.getAttribute("name");
+        }else{
+          secondGuess=this.getAttribute("name");
+          compare();
+          firstGuess = null;
+          secondGuess = null;
+        }
+      })
     }
-    firstNameBasis();
+  }
+  firstNameBasis();
 });

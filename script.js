@@ -1,27 +1,34 @@
 $(document).ready(function(){
-  function firstNameBasis(){
-    var firstGuess=null;
-    var secondGuess=null;
-    var select = document.querySelectorAll(".clickable");
-    function compare(){
-      if(firstGuess === secondGuess){
+  var firstNameBasis={
+    firstGuess:null,
+    secondGuess:null,
+    select:document.querySelectorAll(".clickable"),
+
+    confirm:function(){
+      if(this.firstGuess === this.secondGuess){
         alert("You got it! Good job!");
-      }else {
-        alert("Nope! Try again! ");
+      }else{
+        alert("Nope! Try again!");
+      }
+    },
+    compare:function(name){
+      if(this.firstGuess == null){
+        this.firstGuess=name;
+      }else{
+        this.secondGuess=name;
+        this.confirm();
+        this.firstGuess = null;
+        this.secondGuess = null;
+      }
+    },
+    activateBoard:function(){
+      var self=this;
+      for (var i=0; i<this.select.length; i++){
+        this.select[i].addEventListener("click",function(){
+          self.compare(this.getAttribute("name"));
+        })
       }
     }
-    for (var i=0; i<select.length; i++){
-      select[i].addEventListener("click",function(){
-        if(firstGuess == null){
-          firstGuess=this.getAttribute("name");
-        }else{
-          secondGuess=this.getAttribute("name");
-          compare();
-          firstGuess = null;
-          secondGuess = null;
-        }
-      })
-    }
   }
-  firstNameBasis();
+  firstNameBasis.activateBoard();
 });

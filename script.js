@@ -1,5 +1,6 @@
 firstGuess=null
 secondGuess=null
+
 function compare(){
   if(firstGuess === secondGuess){
     alert("You got it! Good job!");

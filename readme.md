@@ -55,7 +55,7 @@ The URL section of your Github repo:
 
 Create a **new** repository. Then, please follow the instructions here to submit your project:
 
-https://github.com/ga-dc/wdi8-project1-gallery
+https://github.com/ga-dc/wdi9-project1-gallery
 
 You must turn in something before presentations begin. However, you're welcome to continue working on it over the course of WDI and beyond!
 
@@ -159,19 +159,20 @@ Pre-load your app with some data, and let the user flip through them quickly (ba
 
 Score | Expectations
 ----- | ------------
-**0** | _Does not meet expectations._
-**1** | _Meets expectactions, good job!_
-**2** | _Exceeds expectations_
+**0** | _Incomplete_
+**1** | _Progressing_
+**2** | _Performing_
+**3** | _Excelling_
 
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
 
 ### Schedule
 - Anything not specified here will be considered project work time. Take some time to eat lunch and take breaks. Attendance will be taken at 9 in the classrooms each morning.
 
-Day | Time | Event | who
------ | ------------ | ----- | -----
-Tuesday | 10:00 - 12:30 | Outcomes | everyone
-Thursday | 2:30 - 5:00 | Project 1 Presentations | everyone
+Day       |     Time      | Event | Who
+----------| ------------  | ----- | -----
+Wednesday | 10:00 - 12:30 | Outcomes | everyone
+Thursday  | 2:30 - 5:00   | Project 1 Presentations | everyone
 
 ### Presentations
 

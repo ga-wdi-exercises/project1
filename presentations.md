@@ -21,16 +21,16 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 
 | Time        | Group  |
 |:-----------:|:------:|
-| 2:30 - 3:00 | 1      |
-| 3:10 - 3:40 | 2      |
+| 1:30 - 2:00 | 1      |
+| 2:10 - 2:40 | 2      |
 
-### Group 1 (2:30 - 3:00)
+### Group 1 (1:30 - 2:00)
 
 ```text
 To be announced
 ```
 
-### Group 2 (3:10 - 3:40)
+### Group 2 (2:10 - 2:40)
 
 ```text
 To be announced

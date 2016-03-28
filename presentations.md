@@ -16,46 +16,22 @@ a given time, and other students will walk around asking questions like:
 - What did you learn?
 
 ## Schedule for Presentations
-Groups were assigned randomly, to ensure that everyone has the opportunity to see presentations of a range of different game types, by members of every squad.
+
+Groups were assigned randomly, to ensure that everyone has the opportunity to see presentations of a range of different game types, by members of each squad.
 
 | Time        | Group  |
 |:-----------:|:------:|
-| 2:30 - 3:00 | 1      |
-| 3:10 - 3:40 | 2      |
-| 3:50 - 4:20 | 3      |
+| 1:30 - 2:00 | 1      |
+| 2:10 - 2:40 | 2      |
 
-### Group 1 (2:30 - 3:00)
+### Group 1 (1:30 - 2:00)
+
 ```text
-CLASSROOM 6:
-
-- Jesse
-
-CLASSROOM 5:
-
-- Joe
-- Adrian
-
+To be announced
 ```
-### Group 2 (3:10 - 3:40)
+
+### Group 2 (2:10 - 2:40)
+
 ```text
-CLASSROOM 6:
-
-- Becky
-
-CLASSROOM 5:
-
-- Nick
-
-```
-### Group 3 (3:50 - 4:20)
-```text
-CLASSROOM 6:
-
-- Robin
-
-
-CLASSROOM 5:
-
-- Matt
-
+To be announced
 ```

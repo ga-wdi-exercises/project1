@@ -1,6 +1,6 @@
 # Presentations
 
-Presentations will start on Thursday at 2:30pm. We expect everyone to attend every session
+Presentations will start on Thursday at 1:30pm. We expect everyone to attend every session
 and will provide 10 minute breaks between each session.
 
 This means **no working on your code** while others are presenting. This is your chance
@@ -27,11 +27,24 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 ### Group 1 (1:30 - 2:00)
 
 ```text
-To be announced
+Hewan
+Antony
+Jordan
+Josh
+Louis
+Mary
+Michael
+Zaneh
 ```
 
 ### Group 2 (2:10 - 2:40)
 
 ```text
-To be announced
+Habby 
+James
+Lauren
+Leland
+Martin
+Matt
+Wes
 ```

@@ -1,4 +1,51 @@
+
+//popup
+function popout(){
+  $(document).ready(function() {
+
+    var id = '#dialog';
+    var maskHeight = $(document).height();
+    var maskWidth = $(window).width();
+    var winH = $(window).height();
+    var winW = $(window).width();
+
+    $('#mask').css({'width':maskWidth,'height':maskHeight});
+    $('#mask').fadeIn(500);
+    $('#mask').fadeTo("slow",0.9);
+
+    $(id).css('top',  winH/2-$(id).height()/2);
+    $(id).css('left', winW/2-$(id).width()/2);
+    $(id).fadeIn(2000);
+
+    $('.window .close').click(function (e) {
+      e.preventDefault();
+
+      $('#mask').hide();
+      $('.window').hide();
+    });
+
+    $('#mask').click(function () {
+      $(this).hide();
+      $('.window').hide();
+    });
+
+  });
+}
+
+function changeColor() {
+  //change button color
+  console.log('event called on click');
+  if (this.classList.contains(correctAnswer)) {
+    this.classList.add('btn-green');
+  } else {
+      this.classList.add('btn-red');
+    }
+}
+
 function trivia(){
+  var categories;
+  var showCategories = document.getElementById("catagory");
+  var showScore = document.getElementById("myScore");
   var question1 = $(".question");
   // var question1 = document.querySelector(".question");
   // var optionA1 = $("#optionA");
@@ -15,6 +62,19 @@ function trivia(){
   i = 0;
   score = 0
 
+
+
+  var selectCategory = function () {
+    if (chosenCategory === categories[0]) {
+      catagoryName.innerHTML = "The Chosen Category Is Music";
+    } else if (chosenCategory === categories[1]) {
+      catagoryName.innerHTML = "The Chosen Category Is Technology";
+    } else if (chosenCategory === categories[2]) {
+      catagoryName.innerHTML = "The Chosen Category Is Celebrities";
+    }
+  }
+
+  round = ["ROUND 1 </br> TV & Movies", "ROUND 2 </br> Saturday Night </br> Live", "ROUND 3 </br> Celebrity </br> Gossip"];
   question = ["ROUND 1 </br> TV & Movies", "Which actor has a game based </br> off connecting any celebrity</br> to him in 6 degrees?", "For which role did </br> Leonardo DiCaprio </br> win an Oscar?", "Which movie has </br> won the </br> most Oscars?", "Which of these </br> actors has not </br> received an EGOT?", "Which movie </br> is not </br> based off a book?", "ROUND 2 </br> Saturday Night </br> Live", "Who has hosted </br> Saturday Night Live </br> the most times?", "Who has been </br> banned from <br> SNL?", "Who has not </br> been an anchor on </br> Weekend Update?", "Who was not </br> part of the <br> original SNL cast?", "Who was been a SNL </br> cast member the longest?", "ROUND 3 </br> Celebrity </br> Gossip",
   "Who is singer Elle King's </br> famous father?", "Which of the following </br> fellas did not date </br> Taylor Swift?", "Who is Gwen Stefani's </br> current beau?", "What diet plan is Oprah </br> currently following?", "Who broke up with their </br> ex by ghosting them?", "GAME OVER"];
   optionA = ["Press to Play","Kevin Bacon", "None of these options", "Titanic", "Kate Winslet", "Matrix", "Press to Play", "Alec Baldwin", "Adrien Brody", "Adam Sandler", "Steve Martin", "Darrell Hammond", "Press to Play", "Rob Schneider", "Dave Franco", "Blake Shelton", "Weight Watchers", "Charlize Theorn"];
@@ -42,7 +102,7 @@ function trivia(){
     }
   });
   optionB1.addEventListener("click", function () {
-    alert("Sorry, you got it wrong!");
+    popout();
     next();
     if (this.classList.contains("correctAnswer")) {
       if (this.innerHTML == this.classList.contains("correctAnswer", [i])); {
@@ -79,5 +139,12 @@ function trivia(){
     }
   }
   questionAnswers(i)
+
+  // calculate score
+  // function showScore(){
+  // 	$('.score').append("Your score is" count + " out of 5");
+  // }
 }
+popout()
 trivia()
+// showScore()

@@ -12,8 +12,7 @@ var round1 =     {
 }
 trivia = {
   score: 0,
-  rounds: [round1,
-  ]
+  rounds: [round1, round2, round3]
 }
 for (var i=0; i < trivia.rounds.length; i++) {
   var round = trivia.rounds[i];

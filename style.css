@@ -199,23 +199,26 @@ h4 {
 #boxes #dialog {
   width: 750px;
   height: 300px;
-  padding: 10px;
+  /*padding: 10px;*/
   background-color: #ffffff;
   font-family: 'Abril Fatface', sans-serif;
-  font-size: 15pt;
-	color: #E7C12D;
+  font-size: 24pt;
+	color: #000;
+	text-align: center;
 }
 h5{
 	font-family: 'Abril Fatface', sans-serif;
 	font-size: 20pt;
 	z-index: 100000
 	color: #E7C12D;
+	text-align: center;
 }
 h6{
 	font-family: 'Abril Fatface', sans-serif;
 	font-size: 15pt;
 	z-index: 100000
 	color: #000;
+	text-align: center;
 }
 #popupfoot {
   font-size: 16pt;

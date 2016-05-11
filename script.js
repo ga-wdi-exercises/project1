@@ -75,7 +75,7 @@ function trivia(){
   }
 
   round = ["ROUND 1 </br> TV & Movies", "ROUND 2 </br> Saturday Night </br> Live", "ROUND 3 </br> Celebrity </br> Gossip"];
-  question = ["ROUND 1 </br> TV & Movies", "Which actor has a game based </br> off connecting any celebrity</br> to him in 6 degrees?", "For which role did </br> Leonardo DiCaprio </br> win an Oscar?", "Which movie has </br> won the </br> most Oscars?", "Which of these </br> actors has not </br> received an EGOT?", "Which movie </br> is not </br> based off a book?", "ROUND 2 </br> Saturday Night </br> Live", "Who has hosted </br> Saturday Night Live </br> the most times?", "Who has been </br> banned from <br> SNL?", "Who has not </br> been an anchor on </br> Weekend Update?", "Who was not </br> part of the <br> original SNL cast?", "Who was been a SNL </br> cast member the longest?", "ROUND 3 </br> Celebrity </br> Gossip",
+  question = ["Welcome </br>to</br> Trivia Night!", "Which actor has a game based </br> off connecting any celebrity</br> to him in 6 degrees?", "For which role did </br> Leonardo DiCaprio </br> win an Oscar?", "Which movie has </br> won the </br> most Oscars?", "Which of these </br> actors has not </br> received an EGOT?", "Which movie </br> is not </br> based off a book?", "ROUND 2 </br> Saturday Night </br> Live", "Who has hosted </br> Saturday Night Live </br> the most times?", "Who has been </br> banned from <br> SNL?", "Who has not </br> been an anchor on </br> Weekend Update?", "Who was not </br> part of the <br> original SNL cast?", "Who was been a SNL </br> cast member the longest?", "ROUND 3 </br> Celebrity </br> Gossip",
   "Who is singer Elle King's </br> famous father?", "Which of the following </br> fellas did not date </br> Taylor Swift?", "Who is Gwen Stefani's </br> current beau?", "What diet plan is Oprah </br> currently following?", "Who broke up with their </br> ex by ghosting them?", "GAME OVER"];
   optionA = ["Press to Play","Kevin Bacon", "None of these options", "Titanic", "Kate Winslet", "Matrix", "Press to Play", "Alec Baldwin", "Adrien Brody", "Adam Sandler", "Steve Martin", "Darrell Hammond", "Press to Play", "Rob Schneider", "Dave Franco", "Blake Shelton", "Weight Watchers", "Charlize Theorn"];
   optionB = ["", "Tom Cruise", "Django Unchained", "The Godfather", "Audrey Hepburn","Mrs. Doubtfire", "", "Steve Martin", "Kanye West", "Jimmy Falon", "John Belushi", "Kenan Thompson", "", "Adam Sandler", "Harry Styles", "Gavin Rossdale", "Nutri-System", "Taylor Swift", ""];
@@ -102,7 +102,8 @@ function trivia(){
     }
   });
   optionB1.addEventListener("click", function () {
-    popout();
+    // popout();
+    alert("Sorry, you got it wrong!");
     next();
     if (this.classList.contains("correctAnswer")) {
       if (this.innerHTML == this.classList.contains("correctAnswer", [i])); {

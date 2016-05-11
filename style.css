@@ -1,5 +1,9 @@
 <link href='https://fonts.googleapis.com/css?family=Bangers|Denk+One|Playfair+Display:400,900italic,900,700italic,700,400italic|Abril+Fatface|Kadwa:400,700|Carter+One|Laila:400,300,700,600,500|Elsie:400,900|Rozha+One|Playfair+Display+SC:400,400italic,700,700italic,900,900italic|Volkhov:400,700italic,700,400italic|Roboto+Mono:400,700,500,100,300|Tinos:400,700|Nunito:400,700,300|Corben:400,700' rel='stylesheet' type='text/css'>
 
+@font-face{
+	font-family:'Showtime';
+	src:url("http://www.myfontfree.com/data/17/s/showtime/Showtime.ttf");
+}
 head {
 }
 Body {
@@ -197,12 +201,21 @@ h4 {
   height: 300px;
   padding: 10px;
   background-color: #ffffff;
-  font-family: 'Segoe UI Light', sans-serif;
+  font-family: 'Abril Fatface', sans-serif;
   font-size: 15pt;
+	color: #E7C12D;
 }
-#boxes #dialog h2{
-	font-family: 'Segoe UI Light', sans-serif;
+h5{
+	font-family: 'Abril Fatface', sans-serif;
+	font-size: 20pt;
+	z-index: 100000
+	color: #E7C12D;
+}
+h6{
+	font-family: 'Abril Fatface', sans-serif;
 	font-size: 15pt;
+	z-index: 100000
+	color: #000;
 }
 #popupfoot {
   font-size: 16pt;

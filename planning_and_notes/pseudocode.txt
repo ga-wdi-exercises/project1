@@ -1,16 +1,4 @@
-++++++Process is read bottom - top/most recent on top+++++++++++++++++++++++++++++++++++
-There is a Branch called UndoHardCode. 
 
-This has been a journey. I didn’t know where to start. Have some real room to grow on how to “think small” - I learned that the best way I learn is in talking to my cohort people and the coolest thing was that after I felt beyond frustrated, I asked my group leader/hero for help and then, with what I learned, I went around to other people who looked like they were about to fall apart or were otherwise stressing out and I helped them calm down just like I was helped. 
-
-For my next move on this project, I would like to remove the hardcode from my Html and put the array values in my JS. I know how to do that and in this other branch I even created a randomize function but I don’t know how to generate it into my “innerHTML”/button. 
-
-I wanted, someday, to shrink the table to the original 9x9 and then randomly generate the photos but I have to learn more about the append function to do that. That is where I am least comfortable. 
-
- 
-
-
-++++++++++++++++
 *Next Feature to Build -
 
 Reset Board:

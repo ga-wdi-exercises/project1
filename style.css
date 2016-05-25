@@ -1,13 +1,13 @@
 #sidebar1 {
-    position:fixed;
-    left:30px;
-    top:5px;
-    bottom:5px;
-    width:125px;
-    background:#9fc6cc;
-    border:black solid 4px;
-    border-radius:12%;
-    height: 100vh;
+  position:fixed;
+  left:30px;
+  top:5px;
+  bottom:5px;
+  width:125px;
+  background:#9fc6cc;
+  border:black solid 4px;
+  border-radius:12%;
+  height: 100vh;
 }
 p{
   color: #000;
@@ -16,15 +16,15 @@ p{
   font-family:'Amatic SC', cursive;
 }
 #sidebar1 > button {
-    position:relative;
-    font-family:'Amatic SC', cursive;
-    font-size: 23px;
-    text-align: center;
-    margin:3px 1px 3px 1px;
-    border:.5px solid black;
-    border-radius:20px;
-    background-color: white;
-    height: 6%;
+  position:relative;
+  font-family:'Amatic SC', cursive;
+  font-size: 23px;
+  text-align: center;
+  margin:3px 1px 3px 1px;
+  border:.5px solid black;
+  border-radius:20px;
+  background-color: white;
+  height: 6%;
 }
 #sidebar1 > button:hover {
   background-color: #999;
@@ -64,31 +64,31 @@ p{
 
 
 #cardTable {
-    margin: 0 auto;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-bottom: 5%;
+  margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
 }
 
 .nameOfGame {
-    font-family:'Amatic SC', cursive;
-    font-size: 100px;
-    text-align: center;
-    }
+  font-family:'Amatic SC', cursive;
+  font-size: 100px;
+  text-align: center;
+  }
 
 img {
-    max-width:200px;
-    max-height:200px;
-    }
+  max-width:200px;
+  max-height:200px;
+}
 
 img:hover {
   opacity: .6;
 }
 #cardTable, td {
-    background-image:url("OldMap.jpg");
-    border: 5px black solid;
-    }
+  background: url("images/oldMap.jpg");
+  border: 5px black solid;
+}
 th {
-    font-family:'Amatic SC', cursive;
-    font-size: 50px;
-    }
+  font-family:'Amatic SC', cursive;
+  font-size: 50px;
+}

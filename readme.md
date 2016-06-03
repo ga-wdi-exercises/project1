@@ -55,7 +55,7 @@ The URL section of your Github repo:
 
 Create a **new** repository. Then, please follow the instructions here to submit your project:
 
-https://github.com/ga-dc/wdi9-project1-gallery
+https://github.com/ga-dc/project1-gallery
 
 You must turn in something before presentations begin. However, you're welcome to continue working on it over the course of WDI and beyond!
 

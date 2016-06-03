@@ -21,30 +21,24 @@ Groups were assigned randomly, to ensure that everyone has the opportunity to se
 
 | Time        | Group  |
 |:-----------:|:------:|
-| 1:30 - 2:00 | 1      |
-| 2:10 - 2:40 | 2      |
+| 2:30 - 3:00 | 1      |
+| 3:10 - 3:40 | 2      |
+| 3:50 - 4:20 | 3      |
 
-### Group 1 (1:30 - 2:00)
+### Group 1 
 
 ```text
-Hewan
-Antony
-Jordan
-Josh
-Louis
-Mary
-Michael
-Zaneh
+Adrian's Squad
 ```
 
-### Group 2 (2:10 - 2:40)
+### Group 2 
 
 ```text
-Habby 
-James
-Lauren
-Leland
-Martin
-Matt
-Wes
+Jesse's Squad
+```
+
+### Group 3
+
+```text
+Robin's Squad
 ```

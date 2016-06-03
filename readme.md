@@ -175,8 +175,9 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 
 Day       |     Time      | Event | Who
 ----------| ------------  | ----- | -----
-Wednesday | 10:00 - 12:30 | Outcomes | everyone
-Thursday  | 2:30 - 5:00   | Project 1 Presentations | everyone
+Tuesday | 10:00 - 12:30 | Outcomes | everyone
+Thursday  | 2:30 - 4:30   | Project 1 Presentations | everyone
+Thursday  | 4:30 - 5:15   | Squad Retro | everyone
 
 ### Presentations
 

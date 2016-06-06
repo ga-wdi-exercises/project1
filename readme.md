@@ -17,7 +17,7 @@ This is an opportunity to **be creative**, and work through some **tough program
 
 ### Asking For Help
 
-[Please read!](https://github.com/ga-dc/wdi8/blob/master/asking-for-help.md)
+[Please read!](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md)
 
 ---
 

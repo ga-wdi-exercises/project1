@@ -53,15 +53,17 @@ The URL section of your Github repo:
 
 #### DO NOT FORK THIS REPOSITORY!
 
-Create a **new** repository. Then, please follow the instructions here to submit your project:
+Create a **new** repository. Then, submit your project as an issue to this repo:
 
-https://github.com/ga-dc/project1-gallery
+[github.com/ga-dc/wdi10-project1-gallery](https://github.com/ga-dc/wdi10-project1-gallery/issues/new?title=NAME%20Project%201%20Submission&body=Comfort%3A%20%23%2F5%0ACompleteness%3A%20%23%2F5%0A%0APlease%20look%20at%3A%0A)
 
 You must turn in something before presentations begin. However, you're welcome to continue working on it over the course of WDI and beyond!
 
+With your submission **please include any questions you'd like answered, or specific things on which you'd like us to focus.**
+
 ---
 
-### Deploying via GitHub Pages.
+### Deploying via GitHub Pages.su
 
 **DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? They expect `gh_pages` to be a separate informational site about the project contained in the repo. What we want is to use the `gh_pages` functionality to actually host our application.
 

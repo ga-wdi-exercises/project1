@@ -55,7 +55,7 @@ The URL section of your Github repo:
 
 Create a **new** repository. Then, submit your project as an issue to this repo:
 
-[github.com/ga-dc/wdi10-project1-gallery](https://github.com/ga-dc/wdi10-project1-gallery/issues/new?title=NAME%20Project%201%20Submission&body=Comfort%3A%20%23%2F5%0ACompleteness%3A%20%23%2F5%0A%0APlease%20look%20at%3A%0A)
+[github.com/ga-dc/project1-gallery](https://github.com/ga-dc/project1-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
 
 You must turn in something before presentations begin. However, you're welcome to continue working on it over the course of WDI and beyond!
 
@@ -174,10 +174,14 @@ This will serve as a helpful overall gauge of whether you met the project goals,
 
 ### Presentations
 
-All presentations will be science fair style. There will be 3 separate groups. During your group's 45-minute block, you'll set up at a table and demo / discuss your project with the non-presenting students as they walk around.
+We expect everyone to attend all presentations in their entirety and will provide breaks between each session.
 
-[Please view the schedule here.](presentations.md)
+This means **no working on your code** while others are presenting. This is your chance to ask others how they tackled their project.
 
-#### Retro
+Each session of presentations will be science-fair style. Several people will set up at a given time, and other students will walk around asking questions like:
 
-4:30 - 5:15 - [Squad Retro](retro.md)
+- What would you do differently?
+- What are you most proud of?
+- What would you do next?
+- How did you plan your project?
+- What did you learn?

@@ -172,15 +172,6 @@ Score | Expectations
 
 This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
 
-### Schedule
-- Anything not specified here will be considered project work time. Take some time to eat lunch and take breaks. Attendance will be taken at 9 in the classrooms each morning.
-
-Day       |     Time      | Event | Who
-----------| ------------  | ----- | -----
-Tuesday | 10:00 - 12:30 | Outcomes | everyone
-Thursday  | 2:30 - 4:30   | Project 1 Presentations | everyone
-Thursday  | 4:30 - 5:15   | Squad Retro | everyone
-
 ### Presentations
 
 All presentations will be science fair style. There will be 3 separate groups. During your group's 45-minute block, you'll set up at a table and demo / discuss your project with the non-presenting students as they walk around.

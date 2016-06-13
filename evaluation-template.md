@@ -9,7 +9,7 @@
 
 ## Project Workflow:
 
-> Did you complete the user stories, wireframes, task tracking, and/or ERDs, as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
+> Are your commits well-named and discrete? Is there evidence of pseudocoding? Did you detail bronze, silver, and gold versions of your app and adhere to following that progression?
 
 ## Technical Requirements:
 
@@ -17,7 +17,7 @@
 
 ## Code Quality:
 
-> Did you follow code style guidance and best practices covered in class, such as spacing, modularity, and semantic naming? Did you comment your code?
+> Did you follow code style guidance and best practices, such as spacing, modularity, and semantic naming? Did you comment your code?
 
 ## Creativity/Interface:
 

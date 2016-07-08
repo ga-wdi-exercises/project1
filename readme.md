@@ -133,6 +133,15 @@ right you are!
   * Track scores across games (even if the page is reloaded)
   * Allow users to compete against each other on a high-score board.
 
+#### Hangman
+
+Have a player enter a word that will be guessed during the game. The word is then hidden and represented by blank spaces. The second player then chooses letters, which are revealed if present.
+
+*Bonus:*
+  * Add timer-based scoring
+  * Track scores across games (even if the page is reloaded)
+
+
 #### Tower of Hanoi
 
 <a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi">Tower of Hanoi</a> is a mathematical puzzle where the objective is to move a stack of discs from one rod to another. There are three rules:

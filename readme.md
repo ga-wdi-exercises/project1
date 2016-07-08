@@ -105,12 +105,6 @@ git push origin gh-pages
 ---
 
 ### Project Choices
-#### War
-<a href="https://en.wikipedia.org/wiki/War_(card_game)">War</a> is a card game typically involving two players. Due to its simplicity, it is played most often by children. (Probably not so simple to program)
-
-*Bonus:*
-  * tieing - Account for how ties work in the war game
-  * multiplayer functionality(3+)
 
 #### Flash-Cards
 

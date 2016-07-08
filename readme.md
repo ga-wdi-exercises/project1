@@ -7,9 +7,11 @@
 For this project, you'll be creating a familiar game with HTML and JS! Please choose one of the following:
 
 * **War**
-* **Concentration (aka Memory)**
+* **Tower of Hanoi**
 * **Trivia (Self-scoring)**
 * **Flash Cards**
+* **Simon**
+* **Hangman**
 
 This is an opportunity to **be creative**, and work through some **tough programming challenges**.
 
@@ -17,7 +19,7 @@ This is an opportunity to **be creative**, and work through some **tough program
 
 ### Asking For Help
 
-[Please read!](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md)
+[Please read!](https://github.com/ga-dc/wdi11/blob/master/asking-for-help.md)
 
 ---
 
@@ -110,13 +112,15 @@ git push origin gh-pages
   * tieing - Account for how ties work in the war game
   * multiplayer functionality(3+)
 
-#### Concentration
-Sometimes just called "Memory", it's a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. If you get all the matching cards, you've won!
 
-*Bonus:*
-  * Let the user choose from different 'decks'
-  * Add timers / scoring based on timers
-  * Think of some fun way to modify the rules of
+  #### Flash-Cards
+  Pre-load your app with some data, and let the user flip through them quickly (back or front), and use the keyboard flip the card, and to mark whether they got it right or not. Track which cards were incorrect, and re-display them until the user gets them right!
+
+  *Bonus:*
+    * Track scores over time (even if the page is reloaded)
+    * Include images on one or both sides of the flash card
+    * Let the user add flash cards (don't need to be saved across refreshes)
+
 
 #### Self-scoring Trivia
 Pre-load your app with some questions and answers.
@@ -129,13 +133,28 @@ right you are!
   * Track scores across games (even if the page is reloaded)
   * Allow users to compete against each other on a high-score board.
 
-#### Flash-Cards
-Pre-load your app with some data, and let the user flip through them quickly (back or front), and use the keyboard flip the card, and to mark whether they got it right or not. Track which cards were incorrect, and re-display them until the user gets them right!
+#### Tower of Hanoi
 
-*Bonus:*
-  * Track scores over time (even if the page is reloaded)
-  * Include images on one or both sides of the flash card
-  * Let the user add flash cards (don't need to be saved across refreshes)
+<a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi">Tower of Hanoi</a> is a mathematical puzzle where the objective is to move a stack of discs from one rod to another. There are three rules:
+
+- Only one disk can be moved at a time
+- Every move involves taking the top disk from one of the stacks and placing it on top of another stack
+- No disk can be put on top of a smaller disk
+
+  *Bonus:*
+    * Add time-based scoring
+    * Track scores across games (even if the page is reloaded)
+
+#### Simon
+
+<a href="https://en.wikipedia.org/wiki/Simon_">Simon</a> is a test of memory. Have your program choose a sequence of different colors at random and then prompt your player repeat the sequence allowing them to go to advance to next round if the player is successful.
+
+*Bonus*
+
+ * Add timer-based scoring
+ * Track scores across games (even if the page is reloaded)
+
+
 
 ---
 

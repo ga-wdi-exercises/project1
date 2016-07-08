@@ -29,7 +29,7 @@ Your app must:
 
 * **Render in the browser**
 * **Include separate HTML / CSS / JavaScript files**
-* Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
+* Stick with **KISS (Keep It Stupid Simple)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
 * **Deploy online**, using [Github **Project** pages](https://pages.github.com).
 * Use **semantic markup** for HTML and CSS (adhere to best practices)

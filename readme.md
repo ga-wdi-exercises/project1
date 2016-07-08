@@ -112,9 +112,13 @@ git push origin gh-pages
   * tieing - Account for how ties work in the war game
   * multiplayer functionality(3+)
 
+#### Flash-Cards
 
-  #### Flash-Cards
-  Pre-load your app with some data, and let the user flip through them quickly (back or front), and use the keyboard flip the card, and to mark whether they got it right or not. Track which cards were incorrect, and re-display them until the user gets them right!
+Pre-load your app with some data, and let the user flip through
+them quickly (back or front), and use the keyboard flip the card,
+and to mark whether they got it right or not. Track which cards
+were incorrect, and re-display them until the user gets them
+right!
 
   *Bonus:*
     * Track scores over time (even if the page is reloaded)
@@ -158,7 +162,7 @@ Have a player enter a word that will be guessed during the game. The word is the
 
 <a href="https://en.wikipedia.org/wiki/Simon_">Simon</a> is a test of memory. Have your program choose a sequence of different colors at random and then prompt your player repeat the sequence allowing them to go to advance to next round if the player is successful.
 
-*Bonus*
+*Bonus:*
 
  * Add timer-based scoring
  * Track scores across games (even if the page is reloaded)

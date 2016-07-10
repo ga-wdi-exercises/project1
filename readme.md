@@ -5,8 +5,6 @@
 ### Overview
 
 For this project, you'll be creating a familiar game with HTML and JS! Please choose one of the following:
-
-* **War**
 * **Concentration (aka Memory)**
 * **Trivia (Self-scoring)**
 * **Flash Cards**

@@ -5,9 +5,12 @@
 ### Overview
 
 For this project, you'll be creating a familiar game with HTML and JS! Please choose one of the following:
-* **Concentration (aka Memory)**
+
+* **Tower of Hanoi**
 * **Trivia (Self-scoring)**
 * **Flash Cards**
+* **Simon**
+* **Hangman**
 
 This is an opportunity to **be creative**, and work through some **tough programming challenges**.
 
@@ -15,7 +18,7 @@ This is an opportunity to **be creative**, and work through some **tough program
 
 ### Asking For Help
 
-[Please read!](https://github.com/ga-dc/wdi10/blob/master/asking-for-help.md)
+[Please read!](https://github.com/ga-dc/wdi11/blob/master/asking-for-help.md)
 
 ---
 
@@ -25,7 +28,7 @@ Your app must:
 
 * **Render in the browser**
 * **Include separate HTML / CSS / JavaScript files**
-* Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
+* Stick with **KISS (Keep It Stupid Simple)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
 * **Deploy online**, using [Github **Project** pages](https://pages.github.com).
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
@@ -101,20 +104,20 @@ git push origin gh-pages
 ---
 
 ### Project Choices
-#### War
-<a href="https://en.wikipedia.org/wiki/War_(card_game)">War</a> is a card game typically involving two players. Due to its simplicity, it is played most often by children. (Probably not so simple to program)
 
-*Bonus:*
-  * tieing - Account for how ties work in the war game
-  * multiplayer functionality(3+)
+#### Flash-Cards
 
-#### Concentration
-Sometimes just called "Memory", it's a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. If you get all the matching cards, you've won!
+Pre-load your app with some data, and let the user flip through
+them quickly (back or front), and use the keyboard flip the card,
+and to mark whether they got it right or not. Track which cards
+were incorrect, and re-display them until the user gets them
+right!
 
-*Bonus:*
-  * Let the user choose from different 'decks'
-  * Add timers / scoring based on timers
-  * Think of some fun way to modify the rules of
+  *Bonus:*
+    * Track scores over time (even if the page is reloaded)
+    * Include images on one or both sides of the flash card
+    * Let the user add flash cards (don't need to be saved across refreshes)
+
 
 #### Self-scoring Trivia
 Pre-load your app with some questions and answers.
@@ -127,13 +130,37 @@ right you are!
   * Track scores across games (even if the page is reloaded)
   * Allow users to compete against each other on a high-score board.
 
-#### Flash-Cards
-Pre-load your app with some data, and let the user flip through them quickly (back or front), and use the keyboard flip the card, and to mark whether they got it right or not. Track which cards were incorrect, and re-display them until the user gets them right!
+#### Hangman
+
+Have a player enter a word that will be guessed during the game. The word is then hidden and represented by blank spaces. The second player then chooses letters, which are revealed if present.
 
 *Bonus:*
-  * Track scores over time (even if the page is reloaded)
-  * Include images on one or both sides of the flash card
-  * Let the user add flash cards (don't need to be saved across refreshes)
+  * Add timer-based scoring
+  * Track scores across games (even if the page is reloaded)
+
+
+#### Tower of Hanoi
+
+<a href="https://en.wikipedia.org/wiki/Tower_of_Hanoi">Tower of Hanoi</a> is a mathematical puzzle where the objective is to move a stack of discs from one rod to another. There are three rules:
+
+- Only one disk can be moved at a time
+- Every move involves taking the top disk from one of the stacks and placing it on top of another stack
+- No disk can be put on top of a smaller disk
+
+  *Bonus:*
+    * Add time-based scoring
+    * Track scores across games (even if the page is reloaded)
+
+#### Simon
+
+<a href="https://en.wikipedia.org/wiki/Simon_">Simon</a> is a test of memory. Have your program choose a sequence of different colors at random and then prompt your player repeat the sequence allowing them to go to advance to next round if the player is successful.
+
+*Bonus:*
+
+ * Add timer-based scoring
+ * Track scores across games (even if the page is reloaded)
+
+
 
 ---
 

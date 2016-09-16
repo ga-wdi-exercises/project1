@@ -64,7 +64,7 @@ With your submission **please include any questions you'd like answered, or spec
 
 ---
 
-### Deploying via GitHub Pages.su
+### Deploying via GitHub Pages
 
 **DO NOT** follow the instructions provided by GitHub for creating your Project Pages. Why not? They expect `gh_pages` to be a separate informational site about the project contained in the repo. What we want is to use the `gh_pages` functionality to actually host our application.
 

@@ -148,6 +148,7 @@ Have a player enter a word that will be guessed during the game. The word is the
 - No disk can be put on top of a smaller disk
 
   *Bonus:*
+  
     * Add time-based scoring
     * Track scores across games (even if the page is reloaded)
 

@@ -7,9 +7,9 @@
 | 2 | Performing |
 | 3 | Excelling |
 
-## Project Workflow:
+## Deployment:
 
-> Did you complete the user stories, wireframes, task tracking, and/or ERDs, as specified above? Did you use source control as expected for the phase of the program you’re in (detailed above)?
+> Did you successfully deploy your project to github pages? Is the app's functionality the same deployed as it is locally?
 
 ## Technical Requirements:
 
@@ -22,5 +22,3 @@
 ## Creativity/Interface:
 
 > Is your user interface easy to use and understand? Does it make sense for the problem you're solving? Does your interface demonstrate creative design?
-
-## Overall:

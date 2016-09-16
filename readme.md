@@ -114,6 +114,7 @@ were incorrect, and re-display them until the user gets them
 right!
 
   *Bonus:*
+  
     * Track scores over time (even if the page is reloaded)
     * Include images on one or both sides of the flash card
     * Let the user add flash cards (don't need to be saved across refreshes)
@@ -126,6 +127,7 @@ Test the user's wits & knowledge with whatever-the-heck you know about (so you c
 right you are!
 
 *Bonus:*
+
   * Add time-based scoring
   * Track scores across games (even if the page is reloaded)
   * Allow users to compete against each other on a high-score board.
@@ -135,6 +137,7 @@ right you are!
 Have a player enter a word that will be guessed during the game. The word is then hidden and represented by blank spaces. The second player then chooses letters, which are revealed if present.
 
 *Bonus:*
+
   * Add timer-based scoring
   * Track scores across games (even if the page is reloaded)
 

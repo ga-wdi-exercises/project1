@@ -1,6 +1,6 @@
 # Presentation Schedule
 
-## 2:30 - 2:50
+## 2:35 - 2:55
 
 #### Adrian's Squad
 
@@ -14,11 +14,11 @@
 * Ian Hollands
 * Chris Jaffier
 
-## 2:50 - 3:00
+## 2:55 - 3:05
 
 #### Break
 
-## 3:00 - 3:20
+## 3:05 - 3:25
 
 #### Nick's Squad
 
@@ -31,11 +31,11 @@
 * Alexander Manno
 * Nicholas Oki
 
-## 3:20 - 3:30
+## 3:25 - 3:35
 
 #### Break
 
-## 3:30 - 3:50
+## 3:35 - 3:55
 
 #### Jesse's Squad
 
@@ -49,6 +49,6 @@
 * Latoya Watson
 * Andrew Whitley
 
-## 4:00 - 4:30
+## 4:05 - 4:35
 
 #### Squad Scrum

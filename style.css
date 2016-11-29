@@ -1,0 +1,49 @@
+/*.wrapper{
+  background-color: grey;
+  display: flex;
+}*/
+
+/*.header{
+  background-color: black;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+h1{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+.content{
+  background-color: white;
+  justify-content: center;
+  align-items: flex-center;
+}
+
+button{
+  background-color: blue;
+  display: inline;
+  color: white;
+}
+
+.game_board{
+  background-color: tan;
+  align-items: flex-end;
+}
+
+._display{
+  background-color: brown;
+  display: flex
+  flex-direction: column
+  justify-content: flex-end;
+}
+
+.counter{
+  background-color: red;
+  flex direction: column;
+  justify-content: center;
+  align-itmes: center;
+}*/

@@ -1,15 +1,23 @@
-#bling{
-
-}
+/*#bling{
+  margin: 0;
+  padding: 0:
+  background-attachment: fixed;
+  background-image: url("https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NTUxODA2Nl5BMl5BanBnXkFtZTcwNTQ3NDkwNA@@._V1_UY100_CR13,0,100,100_AL_.jpg")
+  font-family: sans-serif, Arial;
+  background-image: url("paper.gif");
+  opacity: 0.2;
+  background-color: #cccccc;
+}*/
 
 .header{
-  height: 50px;
+  height: 300px;
   margin: 15% auto;
   /*margin-top: 50px*/
   padding: 20px;
   color: black;
   width: 50%;
   background-color: tan;
+  border: 3px solid black;
   border-radius: 15px 50px;
 }
 
@@ -21,7 +29,7 @@
   font-family: sans-serif;
   text-align: center;
   width: 50%;
-  height: 100%;
+  height: 300px;
   border-radius: 15px 50px;
   background-color: grey;
   border: 3px solid black;
@@ -57,13 +65,18 @@
   background-color: black;
 }
 
-/*button{
+button{
   background-color: blue;
   display: inline;
   color: white;
+  width: 100px;
+  margin: auto;
+  border: 1px solid white;
+  border-radius: 15px;
+  text-align: center;
 }
 
-.game_board{
+/*.game_board{
   background-color: tan;
   align-items: flex-end;
 }

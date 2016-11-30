@@ -10,20 +10,27 @@
         dataType: "json",
     });
 }*/
-var url = "http://api.wordnik.com:80/v4/words.json/randomWords?hasDictionaryDef=true&minCorpusCount=0&minLength=5&maxLength=15&limit=1&api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5/?t=";
+
+//this function does not work url no good********gave up on this shit can not get any api to upload - it goes through but captures nothing
+/*var url = "http://www.dictionaryapi.com/api/v1/references/collegiate/xml/hypocrite?key=54f479be-96d5-41ea-a17b-53df7b63ccf4/";
 
 $.ajax({
     url: url,
-    type: "GET",
-    dataType: "json",
-}).done(function(response){
-        $('h1').html(response.data.Word);/*('something happened');*/
-    });
+    type: 'GET',
+    dataType: 'XML',
+}).always(function(){
+      console.log('something happened');
+    });*/
 
-function RandomWordComplete(data) {
+
+/*done(function(response){
+        $('h1').html(response.data.Word);/*('something happened');*/
+    //});
+
+/*function RandomWordComplete(data) {
     alert(data.Word);
 }
-/*
+
 //test - did not work**************
 var choosenWord = (data.Word);
 //****Need to look at above and assign the data.word which was the path
@@ -33,11 +40,11 @@ console.log(choosenWord);*/
 //need the variables will use in functions
 //variable to assign random word to
 
-var questionBank/*data.Word*/ = new [];
+var wordListBank/*data.Word*/ = [];
 //variable to place individual letters into - an array - will need to split(Python methos) and place letters here
-var wordArray = new [];
+var newArray = [];
 //an array for choosenletters which will use to black out letter
-var previousWordChoices = new [];
+var previousWordChoices = [];
 //for number of chances have till hung
 /*var livesLeft = 6;
 //for remaining letters to pick
@@ -53,9 +60,20 @@ var currentClue;
 var wrongAnswerCount;
 
 
-//start creatinf functions
+//start creating functions
+$(document).ready (function(){
+  $.getJSON('wordlist.json', function(data) {
+    for(i=0; i<wordlist.length; i++){
+      wordListBank[i] = newArray;
+      wordListBank[i][0] = wordlist[i].word;
+      wordListBank[i][1] = wordlist[i].clue;
+      }
+      alert(wordListBank);
+    });
+});
 
-function useWord(){
+//functions below will become nested in the ready function above once completed
+/*function useWord(){
 
 };
 
@@ -69,11 +87,11 @@ function(){
 
 function(){
 
-};
+};*/
 
 //give user a choose of letters - done w/css/html - need onClick to assign letter as variable
 //to compare to the variables created after random word is generated
-a.addEventListener
+//a.addEventListener
 //if letter is a match show in a board - flip hidden letter
 //if not have count down to being hung
 //when count down reaches zero present a gif from Hang em High

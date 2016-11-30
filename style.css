@@ -1,22 +1,20 @@
-/*.wrapper{
-  background-color: grey;
-  display: flex;
-}*/
+#bling{
 
-/*.header{
-  background-color: black;
-  justify-content: flex-start;
-  align-items: flex-start;
 }
 
-h1{
-  color: white;
+.header{
+  height: 50px;
+  margin: 15% auto;
+  /*margin-top: 50px*/
+  padding: 20px;
+  color: black;
+  width: 50%;
+  background-color: tan;
+  border-radius: 15px 50px;
 }
 
-p{
-  color: white;
-}*/
-
+/*want a background gif from hand em high with music from BAD - an afterthgought
+*/
 .container{
   color: black;
   font-style: bold;
@@ -52,6 +50,11 @@ p{
 #letterOpts a:hover{
   color: red;
   background-color: yellow;
+}
+
+#letterOpts a .off{
+  color: black;
+  background-color: black;
 }
 
 /*button{

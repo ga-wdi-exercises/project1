@@ -18,7 +18,9 @@ p{
 }*/
 
 .container{
-  color: white;
+  color: black;
+  font-style: bold;
+  font-family: sans-serif;
   text-align: center;
   width: 50%;
   height: 100%;
@@ -32,12 +34,22 @@ p{
   /*background-color: white;
   justify-content: center;
   align-items: flex-center;*/
-a *(
+#letterOpts a{
   color: white;
   background-color: blue;
-  )
+  font-family: sans-serif;
+  border: 1px solid black;
+  padding: 5px;
+  border radius: 10px;
+  cursor: progress;
+}
 
-a: hover{
+/*a *(
+  color: white;
+  background-color: blue;
+  )*/
+
+#letterOpts a:hover{
   color: red;
   background-color: yellow;
 }
@@ -66,3 +78,5 @@ a: hover{
   justify-content: center;
   align-itmes: center;
 }*/
+
+/*GO BACK ONCE WORKING AND REDO LAYOUT TO THE EXAMPLE I HAVE DRAWN OUT*/

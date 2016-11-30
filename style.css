@@ -15,15 +15,34 @@ h1{
 
 p{
   color: white;
-}
+}*/
 
-.content{
-  background-color: white;
+.container{
+  color: white;
+  text-align: center;
+  width: 50%;
+  height: 100%;
+  border-radius: 15px 50px;
+  background-color: grey;
+  border: 3px solid black;
+  padding: 20px;
+  display: block;
+  margin: 15% auto;
+}
+  /*background-color: white;
   justify-content: center;
-  align-items: flex-center;
+  align-items: flex-center;*/
+a *(
+  color: white;
+  background-color: blue;
+  )
+
+a: hover{
+  color: red;
+  background-color: yellow;
 }
 
-button{
+/*button{
   background-color: blue;
   display: inline;
   color: white;

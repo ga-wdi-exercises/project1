@@ -56,7 +56,7 @@
 
 ## 11:45 - 12:00
 
-#### James's Squad (CR5 - Tabs)
+#### James' Squad (CR5 - Tabs)
 
  * Aaron Andrews
  * Travis Batts

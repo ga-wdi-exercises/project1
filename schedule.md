@@ -23,6 +23,7 @@
  * Laura Goldstein
  * Malcom Johnson
  * Taylor Scott
+ * Dan Lin
  
 ## 10:50 - 11:05
 

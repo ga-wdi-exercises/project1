@@ -17,11 +17,11 @@
  
 #### Andy's Squad (CR6 - Spaces)
 
- * Joseph Carroll
+ * Mitchell Carroll
  * Katherine Ehni
  * Bedig Galladian
  * Laura Goldstein
- * Malcolm Johnson
+ * Malcom Johnson
  * Taylor Scott
  
 ## 10:50 - 11:05

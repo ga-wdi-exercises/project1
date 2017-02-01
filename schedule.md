@@ -44,7 +44,6 @@
 
  * Gurpeet Gill
  * Dominick Houston
- * Biren Jaspal
  * Kevin Keller
  * Erica Norby
  * Collin O'Connell

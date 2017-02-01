@@ -49,11 +49,11 @@
  * Collin O'Connell
  * Chris Wightman
  
-## 11:25 - 11:45
+## 11:25 - 11:40
 
 #### Break
 
-## 11:45 - 12:00
+## 11:40 - 12:00
 
 #### James' Squad (CR5 - Tabs)
 

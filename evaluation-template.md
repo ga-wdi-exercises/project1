@@ -1,11 +1,11 @@
 # Project Feedback + Evaluation
 
 | Score | Expectations |
-| --- | --- |
-| 0 | Incomplete |
-| 1 | Progressing |
-| 2 | Performing |
-| 3 | Excelling |
+|   --- | ---          |
+|     0 | Incomplete   |
+|     1 | Progressing  |
+|     2 | Performing   |
+|     3 | Excelling    |
 
 ## Deployment:
 

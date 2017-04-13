@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Hang Man/Project1</title>
+
+</head>
+
+<body background = "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NTUxODA2Nl5BMl5BanBnXkFtZTcwNTQ3NDkwNA@@._V1_UY100_CR13,0,100,100_AL_.jpg">
+
+
+	<div class = "header">
+
+    <h1>Your Word has been choosen</h1><!--will become container for random word-->
+
+      <h2>Instructions</h2>
+        <p>Describe Game</p>
+        <button>Start/Replay</button>
+        <button id ="replay">Replay</button>
+	</div>
+
+<!--create two sections one to count selections and subtract from total
+allowed, which is number of letters in word; and another to select the letters-->
+
+		<div class ="container">
+
+
+      <div class = 'top'>
+
+        <p>You have <span>6</span> lives remaining
+
+          <br></br>
+
+          There are <span class = 'remainingLets'>0</span> letters remaining.
+
+        </p>
+
+        <hr>
+
+        <img src = "man.png" alt = "hanging guy picture">
+
+        <h1 class = 'word'>      </h1>
+
+      </div>
+
+      <div id = 'letterOpts'>
+        <a id = 'a'>A</a>
+        <a id = 'b'>B</a>
+        <a id = 'c'>C</a>
+        <a id = 'd'>D</a>
+        <a id = 'e'>E</a>
+        <a id = 'f'>F</a>
+        <a id = 'g'>G</a>
+        <a id = 'h'>H</a>
+        <a id = 'i'>I</a>
+        <a id = 'j'>J</a>
+        <a id = 'k'>K</a>
+        <a id = 'l'>L</a>
+        <a id = 'm'>M</a>
+        <a id = 'n'>N</a>
+        <a id = 'o'>O</a>
+        <a id = 'p'>P</a>
+        <a id = 'q'>Q</a>
+        <a id = 'r'>R</a>
+        <a id = 's'>S</a>
+        <a id = 't'>T</a>
+        <a id = 'u'>U</a>
+        <a id = 'v'>V</a>
+        <a id = 'w'>W</a>
+        <a id = 'x'>X</a>
+        <a id = 'y'>Y</a>
+        <a id = 'z'>Z</a>
+
+      </div>
+
+
+		</div>
+
+
+
+<script src="project.js"></script>
+
+</body>
+
+</html>

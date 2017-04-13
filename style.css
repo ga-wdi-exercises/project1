@@ -1,0 +1,98 @@
+/*#bling{
+  margin: 0;
+  padding: 0:
+  background-attachment: fixed;
+  background-image: url("https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NTUxODA2Nl5BMl5BanBnXkFtZTcwNTQ3NDkwNA@@._V1_UY100_CR13,0,100,100_AL_.jpg")
+  font-family: sans-serif, Arial;
+  background-image: url("paper.gif");
+  opacity: 0.2;
+  background-color: #cccccc;
+}*/
+
+.header{
+  height: 300px;
+  margin: 15% auto;
+  /*margin-top: 50px*/
+  padding: 20px;
+  color: black;
+  width: 50%;
+  background-color: tan;
+  border: 3px solid black;
+  border-radius: 15px 50px;
+}
+
+/*want a background gif from hand em high with music from BAD - an afterthgought
+*/
+.container{
+  color: black;
+  font-style: bold;
+  font-family: sans-serif;
+  text-align: center;
+  width: 50%;
+  height: 300px;
+  border-radius: 15px 50px;
+  background-color: grey;
+  border: 3px solid black;
+  padding: 20px;
+  display: block;
+  margin: 15% auto;
+}
+  /*background-color: white;
+  justify-content: center;
+  align-items: flex-center;*/
+#letterOpts a{
+  color: white;
+  background-color: blue;
+  font-family: sans-serif;
+  border: 1px solid black;
+  padding: 5px;
+  border radius: 10px;
+  cursor: progress;
+}
+
+/*a *(
+  color: white;
+  background-color: blue;
+  )*/
+
+#letterOpts a:hover{
+  color: red;
+  background-color: yellow;
+}
+
+#letterOpts a .off{
+  color: black;
+  background-color: black;
+}
+
+button{
+  background-color: blue;
+  display: inline;
+  color: white;
+  width: 100px;
+  margin: auto;
+  border: 1px solid white;
+  border-radius: 15px;
+  text-align: center;
+}
+
+/*.game_board{
+  background-color: tan;
+  align-items: flex-end;
+}
+
+._display{
+  background-color: brown;
+  display: flex
+  flex-direction: column
+  justify-content: flex-end;
+}
+
+.counter{
+  background-color: red;
+  flex direction: column;
+  justify-content: center;
+  align-itmes: center;
+}*/
+
+/*GO BACK ONCE WORKING AND REDO LAYOUT TO THE EXAMPLE I HAVE DRAWN OUT*/

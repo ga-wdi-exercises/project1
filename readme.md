@@ -4,7 +4,7 @@
 
 ### Overview
 
-For this project, you'll be creating a familiar game with HTML and JS! Please choose one of the following:
+For this project, you'll be creating a familiar game with HTML, CSS and JS! Please choose one of the following:
 
 * **Tower of Hanoi**
 * **Trivia (Self-scoring)**
@@ -43,7 +43,6 @@ Your app must:
   * A **link to your hosted project** in the URL section of your Github repo
   * **A ``readme.md`` file**, including
     * Explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
-    * At least 5 [user stories](https://github.com/ga-wdi-lessons/agile/blob/249a9641e21dadbb0628ab151ac8107042fb6d60/readme.md#user-stories-how-do-we-figure-out-our-mvp).
 
 The URL section of your Github repo:
 ![URL section](http://i.imgur.com/QQ7RsfR.gif)
@@ -114,7 +113,7 @@ were incorrect, and re-display them until the user gets them
 right!
 
  *Bonus:*
- 
+
  * Track scores over time (even if the page is reloaded)
  * Include images on one or both sides of the flash card
  * Let the user add flash cards (don't need to be saved across refreshes)
@@ -151,7 +150,7 @@ Have a player enter a word that will be guessed during the game. The word is the
 - No disk can be put on top of a smaller disk
 
   *Bonus:*
-  
+
     * Add time-based scoring
     * Track scores across games (even if the page is reloaded)
 

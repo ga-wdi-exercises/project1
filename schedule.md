@@ -1,6 +1,8 @@
 # Presentation Schedule
 
-## 2:00 - 2:25
+Will be updated...
+
+<!-- ## 2:00 - 2:25
 
 #### John's Squad
 
@@ -11,7 +13,7 @@
 - Luisa Gonzalez
 - Adam Hoff
 - Conner Johnson
- 
+
 ## Break (5 min)
 
 ## 2:30 - 2:55
@@ -27,7 +29,7 @@
 - Caroline Chen
 
 ## Break (5 min)
- 
+
 ## 3:00 - 3:30
 
 #### Juan's Squad
@@ -38,4 +40,4 @@
 - Curtis Ostle
 - Whitney Purdum
 - Stormy Ramsey
-- Jonathan Wright
+- Jonathan Wright -->

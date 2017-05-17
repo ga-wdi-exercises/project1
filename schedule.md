@@ -1,4 +1,3 @@
-
 ```js
 const firstGroup = [ 
   'Tim Chase',

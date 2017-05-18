@@ -1,10 +1,20 @@
+# Schedule 
+
+| | |
+|-|-|
+| **2:20PM - 2:30PM** | Group #1 Sets Up |
+| **2:30PM - 2:50PM** | Group #1 Presents |
+| **2:50PM - 3:00PM** | Group #2 Sets Up |
+| **3:00PM - 3:20PM** | Group #2 Presents |
+| **3:20PM - 3:30PM** | Break |
+| **3:30PM - 4:00PM** | Squad Scrum |
+| **4:00PM - 4:45PM** | Code Review |
+| **4:45PM - 5:00PM** | Course Feedback Survey |
+
 # Groups
 
 ```js
-// The first group will set up from 2:20-2:30 
-// They will present from 2:30 - 2:50
-
-const firstGroup = [ 
+const groupOne = [ 
   'Tim Chase',
   'Robert Lowe',
   'Scott Pierce ',
@@ -13,11 +23,7 @@ const firstGroup = [
   'Curry Lee' 
 ] 
 
-
-// The second group will set up from 2:50-3:00 
-// They will present from 3:00 - 3:20
-
-const secondGroup = [ 
+const groupTwo = [ 
   'Sonny Keobounphanh',
   'Mark Moeller',
   'Antwana Wadlington',
@@ -27,14 +33,3 @@ const secondGroup = [
   'Usman Ahmed' 
 ]
 ```
-
-# Schedule 
-
-- 2:20 - 2:30 First Group Sets Up
-- 2:30 - 2:50 First Group Presents
-- 2:50 - 3:00 Second Group Sets Up
-- 3:00 - 3:20 Second Group Presents
-- 3:20 - 3:30 Break
-- 3:30 - 4:00 Squad Scrum 
-- 4:00 - 4:45 Code Review
-- 4:45 - 5:00 Course Feedback Survey

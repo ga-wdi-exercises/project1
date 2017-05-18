@@ -1,6 +1,6 @@
 # Schedule 
 
-| | |
+| Time | Event |
 |-|-|
 | **2:20PM - 2:30PM** | Group #1 Sets Up |
 | **2:30PM - 2:50PM** | Group #1 Presents |

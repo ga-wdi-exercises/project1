@@ -30,6 +30,5 @@ const groupTwo = [
   'Fitssum Haile',
   'Danielle Fricke',
   'Tedla Alemu',
-  'Usman Ahmed' 
 ]
 ```

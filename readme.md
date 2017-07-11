@@ -41,8 +41,7 @@ Your app must:
   * Your HTML/CSS should pass the [HTML5 Validator](https://html5.validator.nu) and [CSS Validator](https://jigsaw.w3.org/css-validator/)
 * A **git repository hosted on Github** with frequent commits dating back to the very beginning of the project
   * A **link to your hosted project** in the URL section of your Github repo
-  * **A ``readme.md`` file**, including
-    * Explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+
 
 The URL section of your Github repo:
 ![URL section](http://i.imgur.com/QQ7RsfR.gif)
@@ -53,7 +52,7 @@ The URL section of your Github repo:
 
 #### DO NOT FORK THIS REPOSITORY!
 
-Create a **new** repository. Then, submit your project as an issue to this repo:
+Create a **new** repository - **DO NOT FORK THIS REPO**. Then, submit your project as an issue to this repo:
 
 [github.com/ga-dc/project1-gallery](https://github.com/ga-dc/project1-gallery/issues/new?body=Link%20to%20repo%3A%0ALink%20to%20deployed%20app%3A%0A%0AThings%20you%27d%20like%20specific%20feedback%20on%3A%0A%0A)
 

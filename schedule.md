@@ -1,14 +1,12 @@
-# Schedule 
+# Schedule
 
 | Time | Event |
 |-|-|
-| **2:30PM - 2:40PM** | John's Group Sets Up |
-| **2:40PM - 3:10PM** | John's Group Presents |
-| **3:10PM - 3:20PM** | Juan's Group Sets Up |
-| **3:20PM - 3:50PM** | Juan's Group Presents |
-| **3:50PM - 4:00PM** | Andy's Group Sets Up |
-| **4:00PM - 4:30PM** | Andy's Group Presents |
-
-
-
-
+| **2:30PM - 2:40PM** | Eric's Squad Sets Up |
+| **2:40PM - 3:00PM** | Eric's Squad Presents |
+| **3:00PM - 3:10PM** | James's Squad Sets Up |
+| **3:10PM - 3:30PM** | James's Squad Presents |
+| **3:30PM - 3:40PM** | Ali's Squad Sets Up |
+| **3:40PM - 4:00PM** | Ali's Squad Presents |
+| **4:00PM - 4:30PM** | Squad Scrums |
+| **4:30PM - 5:00PM** | Course Survey & A Word from Lauren |
